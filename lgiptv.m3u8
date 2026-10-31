@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="lgiptv-epg.xml"
+#EXTM3U url-tvg="lgiptv-epg.xml" x-tvg-url="lgiptv-epg.xml"
 
 #EXTINF:-1 tvg-id="limehd-10289" tvg-name="Советские мультфильмы" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10289/logo_256_1658737584.png" group-title="Детям;LimeHD",Советские мультфильмы
 https://mhd.iptv2022.com/x/tVxlPx7nQ-CH-hRNebefCA,1793569653/streaming/rusmult/324/1/index.m3u8

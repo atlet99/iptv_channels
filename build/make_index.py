@@ -35,11 +35,13 @@ for p in files:
     rel = p.relative_to(root).as_posix()
     rows.append(
         "<tr>"
-        f'<td><a href="{html.escape(quote(rel))}">{html.escape(rel)}</a></td>'
-        f"<td>{html.escape(kind(rel))}</td>"
-        f"<td>{p.stat().st_size / 1024:.1f} КБ</td>"
-        '<td><input class="u" readonly aria-label="Прямая ссылка"> '
-        '<button type="button">Копировать</button></td>'
+        f'<td class="name"><a href="{html.escape(quote(rel))}">{html.escape(rel)}</a></td>'
+        f'<td class="type">{html.escape(kind(rel))}</td>'
+        f'<td class="size">{p.stat().st_size / 1024:.1f} КБ</td>'
+        '<td class="linkcell"><div class="copy">'
+        '<input class="u" readonly aria-label="Прямая ссылка">'
+        '<button type="button">Копировать</button>'
+        '</div></td>'
         "</tr>"
     )
 
@@ -54,16 +56,44 @@ page = f"""<!doctype html>
 <meta name="robots" content="noindex">
 <title>Файлы</title>
 <style>
-  :root {{ color-scheme: light dark; }}
-  body {{ font: 16px/1.5 system-ui, sans-serif; margin: 0 auto; padding: 16px; max-width: 60rem; }}
+  :root {{ color-scheme: light dark; --accent: #3b82f6; --muted: #8888; --line: #8884; }}
+  * {{ box-sizing: border-box; }}
+  body {{ font: 16px/1.5 system-ui, sans-serif; margin: 0 auto; padding: 20px; max-width: 64rem; }}
+  h1 {{ font-size: 1.5rem; margin: 0 0 .25rem; }}
+  .hint {{ color: var(--muted); margin: 0 0 1.5rem; }}
   table {{ border-collapse: collapse; width: 100%; }}
-  th, td {{ text-align: left; padding: 6px 8px; border-bottom: 1px solid #8884; vertical-align: top; }}
-  .u {{ width: min(28rem, 100%); font: inherit; }}
+  th {{ font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); text-align: left; padding: 8px; }}
+  td {{ padding: 12px 8px; border-bottom: 1px solid var(--line); vertical-align: middle; }}
+  tr:last-child td {{ border-bottom: 0; }}
+  .name {{ font-weight: 550; word-break: break-all; }}
+  .name a {{ color: inherit; text-decoration: none; }}
+  .name a:hover {{ color: var(--accent); text-decoration: underline; }}
+  .type {{ color: var(--muted); font-size: .9rem; }}
+  .size {{ color: var(--muted); font-size: .85rem; white-space: nowrap; }}
+  .copy {{ display: flex; gap: 8px; max-width: 34rem; }}
+  .u {{ flex: 1 1 auto; min-width: 0; font: .85rem/1.4 ui-monospace, SFMono-Regular, Menlo, monospace;
+        padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px; color: inherit;
+        background: transparent; text-overflow: ellipsis; }}
+  button {{ flex: 0 0 auto; font: inherit; font-size: .9rem; padding: 9px 16px; border: 0;
+            border-radius: 10px; background: var(--accent); color: #fff; cursor: pointer; white-space: nowrap; }}
+  button:hover {{ filter: brightness(1.08); }}
+  button:active {{ transform: translateY(1px); }}
+  :focus-visible {{ outline: 2px solid var(--accent); outline-offset: 2px; }}
+  @media (max-width: 720px) {{
+    body {{ padding: 14px; }}
+    thead {{ display: none; }}
+    table, tbody, tr, td {{ display: block; }}
+    tr {{ padding: 14px 0; border-bottom: 1px solid var(--line); }}
+    td {{ border: 0; padding: 3px 0; }}
+    .copy {{ max-width: none; flex-direction: column; }}
+    .u {{ width: 100%; }}
+    button {{ width: 100%; }}
+  }}
 </style>
 </head>
 <body>
 <h1>Файлы</h1>
-<p>В приложении вставляйте <b>прямую ссылку</b> на файл (колонка справа), а не адрес этой страницы.</p>
+<p class="hint">В приложении вставляйте <b>прямую ссылку</b> на файл (колонка справа), а не адрес этой страницы.</p>
 <table>
 <thead><tr><th>Файл</th><th>Куда вставлять</th><th>Размер</th><th>Прямая ссылка</th></tr></thead>
 <tbody>

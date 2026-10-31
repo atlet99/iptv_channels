@@ -4,451 +4,11 @@
   <title>lgiptv</title>
   <trackList>
     <track>
-      <location>https://mhd.iptv2022.com/x/tVxlPx7nQ-CH-hRNebefCA,1793569653/streaming/rusmult/324/1/index.m3u8</location>
-      <title>Советские мультфильмы</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10289/logo_256_1658737584.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>0</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/lhYtWc0dXIOcfnJgXNYp3g,1793569653/streaming/det_kino/324/1/index.m3u8</location>
-      <title>Детское кино</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10476/logo_256_1658734432.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/F2fMfpn57sC6_PX1_6GUAQ,1793569653/streaming/multsezon/324/1/index.m3u8</location>
-      <title>МультСезон</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10430/logo_256_1660805856.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>2</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/IpqrL5MM6viUS2a0IIFI_g,1793569653/streaming/smile/324/1/index.m3u8</location>
-      <title>Смайл ТВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10128/logo_256.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>3</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/2-Xo7C1BY7oTkZIwPdreZA,1793569653/streaming/tmb/324/1/index.m3u8</location>
-      <title>Vostok</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10069/logo_256_1658733945.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>4</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/CEeI7nmZy9ZlhbFKVtQdnA,1793569653/streaming/evropaplus/324/1/index.m3u8</location>
-      <title>Europa Plus TV</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/21/logo_256_1658733697.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>5</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/7ZxrDEZoj1vMVywFQh7Cjg,1793569653/streaming/clubbingtv/324/1/index.m3u8</location>
-      <title>Clubbing TV HD</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12391/logo_256_1655389526.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>6</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/TN175ljIyPDiE6PcV6BHTw,1793569653/streaming/jarptica/324/1/index.m3u8</location>
-      <title>Жар Птица HD</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10229/logo_256.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>7</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/-16DOsG8RY32NDBNws-tOA,1793569653/streaming/tvc_int/324/1/index.m3u8</location>
-      <title>ТВ Центр Int</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10072/logo_256_1658737811.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>8</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/q9frc0br4SQGXFgBjcQTIw,1793569653/streaming/probusiness/324/1/index.m3u8</location>
-      <title>ПРО БИЗНЕС</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10129/logo_256_1660806906.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>9</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/1ZIjK3SbdAv_eIJFefuRjQ,1793569653/streaming/osnmedia/324/1/index.m3u8</location>
-      <title>ОСН ТВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12657/logo_256_1655388529.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/DZSAUtIoq5QoDuonJ0I2Ig,1793569653/streaming/ldprlive/324/1/index.m3u8</location>
-      <title>ЛДПР ТВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10223/logo_256_1658736783.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>11</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/F18WIGbA2zAz9lsFfCaGRA,1793569653/streaming/rictv/324/1/index.m3u8</location>
-      <title>Крик ТВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10168/logo_256_1658736754.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>12</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/0PmnacmLskkgOm1M6mYWeg,1793569653/streaming/cna_eu/324/1/index.m3u8</location>
-      <title>CNA</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10678/logo_256_1660891657.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>13</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/jIzm8WoEEXcFNrNWvn5OKQ,1793569653/streaming/360news-int/324/1/index.m3u8</location>
-      <title>360 Новости International</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/20091/logo_256_1717161080.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>14</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/rR-1vH17V07Z4oGxLBcQtQ,1793569653/streaming/qazaqstan_int/324/1/index.m3u8</location>
-      <title>Qazaqstan International</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31046/logo_256.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>15</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/9gTcrKkN0AMQk1VjRtS7XA,1793569653/streaming/habar24/324/1/index.m3u8</location>
-      <title>Хабар</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10305/logo_256.webp</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>16</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/w7cvNRGL-cVZuGkQ0nJkmQ,1793569653/streaming/24kz/324/1/index.m3u8</location>
-      <title>24KZ International</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10331/logo_256.webp</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>17</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/WCa9RsBB3SelskywHxgcGg,1793569653/streaming/balapan_int/324/1/index.m3u8</location>
-      <title>Balapan International</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31053/logo_256.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>18</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/jzP76dIcHltUT4qAHyBKRA,1793569653/streaming/belarus24/324/1/index.m3u8</location>
-      <title>Беларусь 24</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10545/logo_256_1660804427.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>19</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/T_ggi2kagRxQgzGnMDvezw,1793569653/streaming/utv/324/1/index.m3u8</location>
-      <title>ЮТВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/179/logo_256.webp</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>20</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/hNLCkWKVvq9LnioAyISBkQ,1793569653/streaming/uzbekistan/324/1/index.m3u8</location>
-      <title>O’zbekiston (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10390/logo_256_1660802775.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>21</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/qsnIyNEjITiP1y1y8CnLLw,1793569653/streaming/yoshlar/324/1/index.m3u8</location>
-      <title>Yoshlar (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10391/logo_256_1660803754.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>22</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/0Q4iBCSHqvBi51wKOMElsA,1793569653/streaming/madaniyat_va_marifat/324/1/index.m3u8</location>
-      <title>Madaniyat va Ma’rifat (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10394/logo_256_1660802679.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>23</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/-FeJMHHaD8epdY1VL8FoYg,1793569653/streaming/dunyo_boylab/324/1/index.m3u8</location>
-      <title>Dunyo Bo’ylab (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10395/logo_256_1660802288.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>24</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/Mx-VlUYlDP4hjUllcyiseg,1793569653/streaming/bolajon/324/1/index.m3u8</location>
-      <title>Bolajon (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10396/logo_256_1660800413.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>25</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/nt2i0u0D5U24BjnUCOM36A,1793569653/streaming/navo/324/1/index.m3u8</location>
-      <title>Navo (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10397/logo_256_1660802734.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>26</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/3wm2irSDM9OW0R48UVPPlw,1793569653/streaming/mahalla/324/1/index.m3u8</location>
-      <title>Mahalla (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10398/logo_256_1660802706.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>27</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/-bRq_0Pa6E1bmOehRqYKBw,1793569653/streaming/kinoteatr/324/1/index.m3u8</location>
-      <title>Kinoteatr (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10399/logo_256_1660802580.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>28</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/ZZQMmnrVpmba0dZVYBrk7Q,1793569653/streaming/uzbekistan24/324/1/index.m3u8</location>
-      <title>O’zbekiston 24 (UZ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10401/logo_256_1660803515.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>29</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/ueEFsgrmEiqjOUEBEnYLaQ,1793569653/streaming/tojikiston/324/1/index.m3u8</location>
-      <title>Тоҷикистон (TJ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10415/logo_256_1660809792.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>30</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/srf1xoxxxvu0sBsBPSDwwQ,1793569653/streaming/safinatv/324/1/index.m3u8</location>
-      <title>ТВ Сафина (TJ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10416/logo_256_1660807576.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>31</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/C3ySXZXAiPjsChpVCF08eA,1793569653/streaming/bohoristontv/324/1/index.m3u8</location>
-      <title>ТВ Баҳористон (TJ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10417/logo_256_1660807515.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>32</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/18iTDKO-UMOhCfs1aTnCGw,1793569653/streaming/jahonnamo/324/1/index.m3u8</location>
-      <title>Джахоннамо (TJ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10418/logo_256_1660804869.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>33</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/bgnCt6Yk8FJY0yDvBCMOyw,1793569653/streaming/sinamotv/324/1/index.m3u8</location>
-      <title>ТВ Синамо (TJ)</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10420/logo_256_1660807613.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>34</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/LAhiybYKbQrXqd7eiQBW2Q,1793569653/streaming/prodvijenie/324/1/index.m3u8</location>
-      <title>Продвижение</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10149/logo_256.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>35</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/tXEB6dT1npJyaVENtmyAiQ,1793569653/streaming/hhq/324/1/index.m3u8</location>
-      <title>Телеканал HHQ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14225/logo_256_1660810197.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>36</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/zYlQYJv2womUxsmlSsc8Aw,1793569653/streaming/openmir/324/1/index.m3u8</location>
-      <title>Открытый мир</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10222/logo_256_1658737177.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>37</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/4I1aXi6hLu22dxaKxKSeBA,1793569653/streaming/fashion/324/1/index.m3u8</location>
-      <title>Fashion TV</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10257/logo_256_1658733714.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>38</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/1u4glnyri5JNKsPl8Q0n4g,1793569653/streaming/quadrohd/324/1/index.m3u8</location>
-      <title>Quadro</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16052/logo_256_1671601595.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>39</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/_MscP9uIahRpH_SXvBeevA,1793569653/streaming/kaleidoskop/324/1/index.m3u8</location>
-      <title>Калейдоскоп ТВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10074/logo_256_1658736572.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>40</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/L0aZINZrRGmBkAGX2WebnA,1793569653/streaming/8kanal/324/1/index.m3u8</location>
-      <title>8 Канал</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10081/logo_256_1658733465.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>41</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/xPa9eZnO0j8yHp5IaMAqEQ,1793569653/streaming/briks/324/1/index.m3u8</location>
-      <title>TV BRICS</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10618/logo_256_1655389346.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>42</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/hYyhjOU3h-_NPXSXMIKEbw,1793569653/streaming/centrtv/324/1/index.m3u8</location>
-      <title>Центральное ТВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>43</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/pA2RaC0gnGrGod5uvmqppw,1793569653/streaming/ratnik/324/1/index.m3u8</location>
-      <title>Ратник</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10141/logo_256_1658737383.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>44</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/M44tYMyBNJ__-3xTRuLEdQ,1793569653/streaming/terra/324/1/index.m3u8?bundle=appBundle&amp;app_name=appName&amp;ifa=idfa&amp;device_id=did</location>
-      <title>Терра Инкогнита</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10385/logo_256_1658737896.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>45</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/v1xND8MHi0fgR9h68pVpLw,1793569653/streaming/np/324/1/index.m3u8?bundle=appBundle&amp;app_name=appName&amp;ifa=idfa&amp;device_id=did</location>
-      <title>Неизвестная планета</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10386/logo_256_1658737079.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>46</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/bHG9S9oi-aX-JGcSIv-eDw,1793569653/streaming/travelxp/324/1/index.m3u8</location>
-      <title>Travelxp HD</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12384/logo_256_1655390600.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>47</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/nGGHwP5yLbo358YGvA29AQ,1793569653/streaming/nadejda/324/1/index.m3u8</location>
-      <title>Надежда</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10258/logo_256_1658737018.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>48</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/UKs_JVkYgHseyGcKvprwYw,1793569653/streaming/3angel/324/1/index.m3u8</location>
-      <title>Три Ангела</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/138/logo_256_1660809851.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>49</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/D-ZHILjgkFTy-EyG0PsLkQ,1793569653/streaming/blagvestraz/324/1/index.m3u8</location>
-      <title>Телеканал ТБВ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/23423/logo_256_1709560054.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>50</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/latJw9v19JKAjtsMZIbMow,1793569653/streaming/firstvegan/324/1/index.m3u8</location>
-      <title>Первый Вегетарианский</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10221/logo_256_1658737228.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>51</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/a5PxnqF9KtjmGK88Hnf3Kw,1793569653/streaming/livetvaz/324/1/index.m3u8</location>
-      <title>LIVETVAZ</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26846/logo_256_1719316009.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>52</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/FDcR2o3fvziQNxDipXgmZg,1793569653/streaming/sovietmovs/324/1/index.m3u8?bundle=appBundle&amp;app_name=appName&amp;ifa=idfa&amp;device_id=did</location>
-      <title>Советское кино</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10290/logo_256_1658737599.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>53</vlc:id>
-      </extension>
-    </track>
-    <track>
-      <location>https://mhd.iptv2022.com/x/R52DfP9JRz5Cm4-LdoFpgQ,1793569653/streaming/public_dom/324/1/index.m3u8</location>
-      <title>Наше старое кино</title>
-      <image>https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14862/logo_256_1680258355.png</image>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>54</vlc:id>
-      </extension>
-    </track>
-    <track>
       <location>https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8</location>
       <title>12 канал</title>
       <image>https://newapp.bonus-tv.ru/static/pics/12channel.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>55</vlc:id>
+        <vlc:id>0</vlc:id>
       </extension>
     </track>
     <track>
@@ -456,7 +16,7 @@
       <title>49 Канал</title>
       <image>https://newapp.bonus-tv.ru/static/pics/nsk2.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>56</vlc:id>
+        <vlc:id>1</vlc:id>
       </extension>
     </track>
     <track>
@@ -464,7 +24,7 @@
       <title>Brics</title>
       <image>https://newapp.bonus-tv.ru/static/pics/brics.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>57</vlc:id>
+        <vlc:id>2</vlc:id>
       </extension>
     </track>
     <track>
@@ -472,7 +32,7 @@
       <title>E!</title>
       <image>https://newapp.bonus-tv.ru/static/pics/e.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>58</vlc:id>
+        <vlc:id>3</vlc:id>
       </extension>
     </track>
     <track>
@@ -480,7 +40,7 @@
       <title>FON Music</title>
       <image>https://newapp.bonus-tv.ru/static/pics/fontv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>59</vlc:id>
+        <vlc:id>4</vlc:id>
       </extension>
     </track>
     <track>
@@ -488,7 +48,7 @@
       <title>RT</title>
       <image>https://newapp.bonus-tv.ru/static/pics/rt.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>60</vlc:id>
+        <vlc:id>5</vlc:id>
       </extension>
     </track>
     <track>
@@ -496,7 +56,7 @@
       <title>RTД</title>
       <image>https://newapp.bonus-tv.ru/static/pics/rtdoc.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>61</vlc:id>
+        <vlc:id>6</vlc:id>
       </extension>
     </track>
     <track>
@@ -504,7 +64,7 @@
       <title>Start Test Feed</title>
       <image>https://newapp.bonus-tv.ru/static/pics/events/test_tvstart.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>62</vlc:id>
+        <vlc:id>7</vlc:id>
       </extension>
     </track>
     <track>
@@ -512,7 +72,7 @@
       <title>Архыз</title>
       <image>https://newapp.bonus-tv.ru/static/pics/arhiz24.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>63</vlc:id>
+        <vlc:id>8</vlc:id>
       </extension>
     </track>
     <track>
@@ -520,7 +80,7 @@
       <title>Благая Весть</title>
       <image>https://newapp.bonus-tv.ru/static/pics/tbv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>64</vlc:id>
+        <vlc:id>9</vlc:id>
       </extension>
     </track>
     <track>
@@ -528,7 +88,7 @@
       <title>БСТ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/bst.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>65</vlc:id>
+        <vlc:id>10</vlc:id>
       </extension>
     </track>
     <track>
@@ -536,7 +96,7 @@
       <title>Дагестан</title>
       <image>https://newapp.bonus-tv.ru/static/pics/dagestan.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>66</vlc:id>
+        <vlc:id>11</vlc:id>
       </extension>
     </track>
     <track>
@@ -544,7 +104,7 @@
       <title>Егорьевское Телевидение</title>
       <image>https://newapp.bonus-tv.ru/static/pics/egor.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>67</vlc:id>
+        <vlc:id>12</vlc:id>
       </extension>
     </track>
     <track>
@@ -552,7 +112,7 @@
       <title>Ингушетия ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/ingush.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>68</vlc:id>
+        <vlc:id>13</vlc:id>
       </extension>
     </track>
     <track>
@@ -560,7 +120,7 @@
       <title>Магнат ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/magnat.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>69</vlc:id>
+        <vlc:id>14</vlc:id>
       </extension>
     </track>
     <track>
@@ -568,7 +128,7 @@
       <title>Осетия Ирыстон</title>
       <image>https://newapp.bonus-tv.ru/static/pics/osetia.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>70</vlc:id>
+        <vlc:id>15</vlc:id>
       </extension>
     </track>
     <track>
@@ -576,7 +136,7 @@
       <title>Первый Ярославский</title>
       <image>https://newapp.bonus-tv.ru/static/pics/1yartv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>71</vlc:id>
+        <vlc:id>16</vlc:id>
       </extension>
     </track>
     <track>
@@ -584,7 +144,7 @@
       <title>Продвижение</title>
       <image>https://newapp.bonus-tv.ru/static/pics/prodvij_new.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>72</vlc:id>
+        <vlc:id>17</vlc:id>
       </extension>
     </track>
     <track>
@@ -592,7 +152,7 @@
       <title>Просвещение</title>
       <image>https://newapp.bonus-tv.ru/static/pics/prosveschenie.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>73</vlc:id>
+        <vlc:id>18</vlc:id>
       </extension>
     </track>
     <track>
@@ -600,7 +160,7 @@
       <title>Радость моя</title>
       <image>https://newapp.bonus-tv.ru/static/pics/radost.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>74</vlc:id>
+        <vlc:id>19</vlc:id>
       </extension>
     </track>
     <track>
@@ -608,7 +168,7 @@
       <title>Салям</title>
       <image>https://newapp.bonus-tv.ru/static/pics/salyam.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>75</vlc:id>
+        <vlc:id>20</vlc:id>
       </extension>
     </track>
     <track>
@@ -616,7 +176,7 @@
       <title>Санкт-Петербург</title>
       <image>https://newapp.bonus-tv.ru/static/pics/spb.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>76</vlc:id>
+        <vlc:id>21</vlc:id>
       </extension>
     </track>
     <track>
@@ -624,7 +184,7 @@
       <title>Своё ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/svoetv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>77</vlc:id>
+        <vlc:id>22</vlc:id>
       </extension>
     </track>
     <track>
@@ -632,7 +192,7 @@
       <title>Север</title>
       <image>https://newapp.bonus-tv.ru/static/pics/sever.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>78</vlc:id>
+        <vlc:id>23</vlc:id>
       </extension>
     </track>
     <track>
@@ -640,7 +200,7 @@
       <title>СКАТ 24</title>
       <image>https://newapp.bonus-tv.ru/static/pics/skat.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>79</vlc:id>
+        <vlc:id>24</vlc:id>
       </extension>
     </track>
     <track>
@@ -648,7 +208,7 @@
       <title>Страна ФМ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/stranafm.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>80</vlc:id>
+        <vlc:id>25</vlc:id>
       </extension>
     </track>
     <track>
@@ -656,7 +216,7 @@
       <title>ТВ Экстра</title>
       <image>https://newapp.bonus-tv.ru/static/pics/TVE_white.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>81</vlc:id>
+        <vlc:id>26</vlc:id>
       </extension>
     </track>
     <track>
@@ -664,7 +224,7 @@
       <title>ТК Краснодар</title>
       <image>https://newapp.bonus-tv.ru/static/pics/krasnodonl.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>82</vlc:id>
+        <vlc:id>27</vlc:id>
       </extension>
     </track>
     <track>
@@ -672,7 +232,7 @@
       <title>Толпар</title>
       <image>https://newapp.bonus-tv.ru/static/pics/tolpartv2.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>83</vlc:id>
+        <vlc:id>28</vlc:id>
       </extension>
     </track>
     <track>
@@ -680,7 +240,7 @@
       <title>Триумф тест</title>
       <image>https://newapp.bonus-tv.ru/static/pics/events/test_triumph.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>84</vlc:id>
+        <vlc:id>29</vlc:id>
       </extension>
     </track>
     <track>
@@ -688,7 +248,7 @@
       <title>Тюменское время</title>
       <image>https://newapp.bonus-tv.ru/static/pics/tymvremya2.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>85</vlc:id>
+        <vlc:id>30</vlc:id>
       </extension>
     </track>
     <track>
@@ -696,7 +256,7 @@
       <title>Шансон ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/shanson.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>86</vlc:id>
+        <vlc:id>31</vlc:id>
       </extension>
     </track>
   </trackList>
@@ -795,170 +355,5 @@
   </extension>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="31"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="32"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="33"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="34"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="35"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="36"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="37"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="38"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="39"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="40"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="41"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="42"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="43"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="44"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="45"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="46"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="47"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="48"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="49"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="50"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="51"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="52"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="53"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="54"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="55"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="56"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="57"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="58"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="59"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="60"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="61"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="62"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="63"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="64"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="65"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="66"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="67"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="68"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="69"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="70"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="71"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="72"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="73"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="74"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="75"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="76"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="77"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="78"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="79"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="80"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="81"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="82"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="83"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="84"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="85"/>
-  </extension>
-  <extension application="http://www.videolan.org/vlc/playlist/0">
-    <vlc:item tid="86"/>
   </extension>
 </playlist>

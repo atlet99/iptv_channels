@@ -9882,11 +9882,67 @@
       </extension>
     </track>
     <track>
+      <location>https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8</location>
+      <title>Angel TV Russian (720p)</title>
+      <image>https://i.imgur.com/qKLEGU7.png</image>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>1342</vlc:id>
+      </extension>
+    </track>
+    <track>
+      <location>https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8</location>
+      <title>Bollywood HD Russia (576p)</title>
+      <image>https://i.imgur.com/scDKOLS.png</image>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>1343</vlc:id>
+      </extension>
+    </track>
+    <track>
+      <location>https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8</location>
+      <title>Euronews Russian (720p)</title>
+      <image>https://i.imgur.com/8t9mdg9.png</image>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>1344</vlc:id>
+      </extension>
+    </track>
+    <track>
+      <location>http://stream.mcquack.net/458/index.m3u8</location>
+      <title>Gagsnetwork (576p)</title>
+      <image>https://i.imgur.com/ENj5GIp.png</image>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>1345</vlc:id>
+      </extension>
+    </track>
+    <track>
+      <location>http://stream.mcquack.net/276/index.m3u8</location>
+      <title>Mezzo Live (1080p)</title>
+      <image>https://i.imgur.com/H9ytKPN.png</image>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>1346</vlc:id>
+      </extension>
+    </track>
+    <track>
+      <location>https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8</location>
+      <title>Radio Mir (720p)</title>
+      <image>https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg</image>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>1347</vlc:id>
+      </extension>
+    </track>
+    <track>
+      <location>https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8</location>
+      <title>TV Rain (1080p) [Geo-blocked]</title>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png</image>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>1348</vlc:id>
+      </extension>
+    </track>
+    <track>
       <location>https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8</location>
       <title>12 канал</title>
       <image>https://newapp.bonus-tv.ru/static/pics/12channel.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1342</vlc:id>
+        <vlc:id>1349</vlc:id>
       </extension>
     </track>
     <track>
@@ -9894,7 +9950,7 @@
       <title>Brics</title>
       <image>https://newapp.bonus-tv.ru/static/pics/brics.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1343</vlc:id>
+        <vlc:id>1350</vlc:id>
       </extension>
     </track>
     <track>
@@ -9902,7 +9958,7 @@
       <title>FON Music</title>
       <image>https://newapp.bonus-tv.ru/static/pics/fontv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1344</vlc:id>
+        <vlc:id>1351</vlc:id>
       </extension>
     </track>
     <track>
@@ -9910,7 +9966,7 @@
       <title>RT</title>
       <image>https://newapp.bonus-tv.ru/static/pics/rt.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1345</vlc:id>
+        <vlc:id>1352</vlc:id>
       </extension>
     </track>
     <track>
@@ -9918,7 +9974,7 @@
       <title>RTД</title>
       <image>https://newapp.bonus-tv.ru/static/pics/rtdoc.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1346</vlc:id>
+        <vlc:id>1353</vlc:id>
       </extension>
     </track>
     <track>
@@ -9926,7 +9982,7 @@
       <title>Start Test Feed</title>
       <image>https://newapp.bonus-tv.ru/static/pics/events/test_tvstart.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1347</vlc:id>
+        <vlc:id>1354</vlc:id>
       </extension>
     </track>
     <track>
@@ -9934,7 +9990,7 @@
       <title>Архыз</title>
       <image>https://newapp.bonus-tv.ru/static/pics/arhiz24.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1348</vlc:id>
+        <vlc:id>1355</vlc:id>
       </extension>
     </track>
     <track>
@@ -9942,7 +9998,7 @@
       <title>Благая Весть</title>
       <image>https://newapp.bonus-tv.ru/static/pics/tbv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1349</vlc:id>
+        <vlc:id>1356</vlc:id>
       </extension>
     </track>
     <track>
@@ -9950,7 +10006,7 @@
       <title>БСТ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/bst.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1350</vlc:id>
+        <vlc:id>1357</vlc:id>
       </extension>
     </track>
     <track>
@@ -9958,7 +10014,7 @@
       <title>Дагестан</title>
       <image>https://newapp.bonus-tv.ru/static/pics/dagestan.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1351</vlc:id>
+        <vlc:id>1358</vlc:id>
       </extension>
     </track>
     <track>
@@ -9966,7 +10022,7 @@
       <title>Ингушетия ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/ingush.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1352</vlc:id>
+        <vlc:id>1359</vlc:id>
       </extension>
     </track>
     <track>
@@ -9974,7 +10030,7 @@
       <title>Магнат ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/magnat.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1353</vlc:id>
+        <vlc:id>1360</vlc:id>
       </extension>
     </track>
     <track>
@@ -9982,7 +10038,7 @@
       <title>Осетия Ирыстон</title>
       <image>https://newapp.bonus-tv.ru/static/pics/osetia.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1354</vlc:id>
+        <vlc:id>1361</vlc:id>
       </extension>
     </track>
     <track>
@@ -9990,7 +10046,7 @@
       <title>Первый Ярославский</title>
       <image>https://newapp.bonus-tv.ru/static/pics/1yartv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1355</vlc:id>
+        <vlc:id>1362</vlc:id>
       </extension>
     </track>
     <track>
@@ -9998,7 +10054,7 @@
       <title>Продвижение</title>
       <image>https://newapp.bonus-tv.ru/static/pics/prodvij_new.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1356</vlc:id>
+        <vlc:id>1363</vlc:id>
       </extension>
     </track>
     <track>
@@ -10006,7 +10062,7 @@
       <title>Просвещение</title>
       <image>https://newapp.bonus-tv.ru/static/pics/prosveschenie.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1357</vlc:id>
+        <vlc:id>1364</vlc:id>
       </extension>
     </track>
     <track>
@@ -10014,7 +10070,7 @@
       <title>Радость моя</title>
       <image>https://newapp.bonus-tv.ru/static/pics/radost.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1358</vlc:id>
+        <vlc:id>1365</vlc:id>
       </extension>
     </track>
     <track>
@@ -10022,7 +10078,7 @@
       <title>Салям</title>
       <image>https://newapp.bonus-tv.ru/static/pics/salyam.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1359</vlc:id>
+        <vlc:id>1366</vlc:id>
       </extension>
     </track>
     <track>
@@ -10030,7 +10086,7 @@
       <title>Санкт-Петербург</title>
       <image>https://newapp.bonus-tv.ru/static/pics/spb.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1360</vlc:id>
+        <vlc:id>1367</vlc:id>
       </extension>
     </track>
     <track>
@@ -10038,7 +10094,7 @@
       <title>Своё ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/svoetv.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1361</vlc:id>
+        <vlc:id>1368</vlc:id>
       </extension>
     </track>
     <track>
@@ -10046,7 +10102,7 @@
       <title>Север</title>
       <image>https://newapp.bonus-tv.ru/static/pics/sever.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1362</vlc:id>
+        <vlc:id>1369</vlc:id>
       </extension>
     </track>
     <track>
@@ -10054,7 +10110,7 @@
       <title>Страна ФМ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/stranafm.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1363</vlc:id>
+        <vlc:id>1370</vlc:id>
       </extension>
     </track>
     <track>
@@ -10062,7 +10118,7 @@
       <title>ТК Краснодар</title>
       <image>https://newapp.bonus-tv.ru/static/pics/krasnodonl.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1364</vlc:id>
+        <vlc:id>1371</vlc:id>
       </extension>
     </track>
     <track>
@@ -10070,7 +10126,7 @@
       <title>Триумф тест</title>
       <image>https://newapp.bonus-tv.ru/static/pics/events/test_triumph.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1365</vlc:id>
+        <vlc:id>1372</vlc:id>
       </extension>
     </track>
     <track>
@@ -10078,7 +10134,7 @@
       <title>Тюменское время</title>
       <image>https://newapp.bonus-tv.ru/static/pics/tymvremya2.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1366</vlc:id>
+        <vlc:id>1373</vlc:id>
       </extension>
     </track>
     <track>
@@ -10086,7 +10142,7 @@
       <title>Шансон ТВ</title>
       <image>https://newapp.bonus-tv.ru/static/pics/shanson.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>1367</vlc:id>
+        <vlc:id>1374</vlc:id>
       </extension>
     </track>
   </trackList>
@@ -14193,5 +14249,26 @@
   </extension>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="1367"/>
+  </extension>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="1368"/>
+  </extension>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="1369"/>
+  </extension>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="1370"/>
+  </extension>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="1371"/>
+  </extension>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="1372"/>
+  </extension>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="1373"/>
+  </extension>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="1374"/>
   </extension>
 </playlist>

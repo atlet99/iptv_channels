@@ -4026,6 +4026,27 @@ http://212.0.211.102:9999/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="Qazaqstan" tvg-logo="" tvg-id="QazaqstanInternational.kz" tvg-chno="2" tvg-country="KZ" group-title="Kazakhstan",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Russia",Angel TV Russian (720p)
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Russia",Bollywood HD Russia (576p)
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Russia",Euronews Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="Russia",Gagsnetwork (576p)
+http://stream.mcquack.net/458/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Russia",Mezzo Live (1080p)
+http://stream.mcquack.net/276/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Russia",Radio Mir (720p)
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="Russia",TV Rain (1080p) [Geo-blocked]
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="12_OMSK" tvg-name="12 канал" tvg-logo="https://newapp.bonus-tv.ru/static/pics/12channel.png" group-title="Развлекательные;Региональные;Информационные",12 канал
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 

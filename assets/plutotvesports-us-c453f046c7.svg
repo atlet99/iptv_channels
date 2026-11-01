@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 288">
+  <defs>
+    <style>.cls-1{fill:#1bffc0;}</style>
+  </defs>
+  <g id="Guide">
+    <path class="cls-1" d="M132.39,128.94H75.23v-13.8h57.16Zm-57.16,4h57.16V145.4H88.31v4h44.08v14.18H75.23Z"/>
+    <path class="cls-1" d="M160.27,145.12h-22V132.36h22Z"/>
+    <path class="cls-1" d="M177.8,128.18v4h33.27v30.7H164.72V148.74H198v-4.29H164.72V114.37h46.35v13.81Z"/>
+    <path class="cls-1" d="M272.7,114.37V144.6h-44v18.27H215.54v-30.7h43.88v-4H215.54V114.37Z"/>
+    <path class="cls-1" d="M326.65,115v48.5H283.29l-6.09-6.09V115Zm-13.09,13.8H290.29v20.51h23.27Z"/>
+    <path class="cls-1" d="M388.28,173.82l-44.07-32.6v21.56H331.12v-30.7h44v-4h-44v-13.8h57.11v34.31H376.48l11.75,6.67Z"/>
+    <path class="cls-1" d="M449.92,114.18V128H427.36v34.69h-14V128H392.76V114.18Z"/>
+    <path class="cls-1" d="M467.51,128.18v4h33.26v30.7H454.42V148.74h33.27v-4.29H454.42V114.37h46.35v13.81Z"/>
+  </g>
+</svg>

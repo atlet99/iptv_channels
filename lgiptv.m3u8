@@ -164,14 +164,14 @@ http://176.118.197.101/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png" group-title="Федеральные",НТВ Ⓢ (576p)
 http://31.148.5.241/kanal_4/index.m3u8
 
-#EXTINF:-1 tvg-id="OTR.ru@SD" group-title="Федеральные",ОТР (450p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/otr-ru-50112e8e85.png" group-title="Федеральные",ОТР (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-id="OTR.ru@SD" group-title="Федеральные",ОТР Ⓢ (576p)
+#EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/otr-ru-50112e8e85.png" group-title="Федеральные",ОТР Ⓢ (576p)
 http://flussonic.linkintel.ru/otr/index.m3u8
 
-#EXTINF:-1 tvg-id="OTR.ru@SD" group-title="Федеральные",ОТР Ⓢ (576p)
+#EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/otr-ru-50112e8e85.png" group-title="Федеральные",ОТР Ⓢ (576p)
 http://31.148.5.241/kanal_9/index.m3u8
 
 #EXTINF:-1 tvg-name="ОТР" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/отр-b411f47199.png" tvg-id="OTR.ru" tvg-chno="10" tvg-country="RU" group-title="Федеральные",ОТР Ⓢ
@@ -381,28 +381,28 @@ http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png" group-title="Федеральные",СТС Ⓢ (576p)
 http://31.148.5.241/kanal_13/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Федеральные",ТВ Центр
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tvcentr-ru-3f8d44891e.svg" group-title="Федеральные",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Федеральные",ТВ Центр
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tvcentr-ru-3f8d44891e.svg" group-title="Федеральные",ТВ Центр
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/13.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Федеральные",ТВ Центр (450p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tvcentr-ru-3f8d44891e.svg" group-title="Федеральные",ТВ Центр (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Федеральные",ТВ Центр Ⓢ (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tvcentr-ru-3f8d44891e.svg" group-title="Федеральные",ТВ Центр Ⓢ (576p)
 http://flussonic.linkintel.ru/tvc/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Федеральные",ТВ Центр Ⓢ (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tvcentr-ru-3f8d44891e.svg" group-title="Федеральные",ТВ Центр Ⓢ (576p)
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Федеральные",ТВ Центр Ⓢ (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tvcentr-ru-3f8d44891e.svg" group-title="Федеральные",ТВ Центр Ⓢ (576p)
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Федеральные",ТВ Центр Ⓢ (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tvcentr-ru-3f8d44891e.svg" group-title="Федеральные",ТВ Центр Ⓢ (576p)
 http://31.148.5.241/kanal_10/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png" group-title="Федеральные",ТВ-3 (540p) [Geo-blocked]
@@ -507,7 +507,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 #EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/africa24sport-fr-1bb8354e8c.png" group-title="Новости",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ArirangTV.kr@SD" group-title="Новости",Arirang (576p)
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/arirangtv-kr-d07bddb85c.png" group-title="Новости",Arirang (576p)
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv_brics" tvg-name="Brics" tvg-logo="https://newapp.bonus-tv.ru/static/pics/brics.png" group-title="Новости",Brics
@@ -522,7 +522,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="Rus_Today" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/rt-b75c816499.png" group-title="Новости",RT
 https://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8
 
-#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Новости",RT (720p)
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-ru-3b9e850ed4.png" group-title="Новости",RT (720p)
 http://212.5.144.156:8080/rt/index.m3u8
 
 #EXTINF:-1 tvg-id="RTArabic.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-arabic-6d160284a0.png" group-title="Новости",RT Arabic (1080p) [Geo-blocked]
@@ -559,26 +559,26 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 
-#EXTINF:-1 tvg-id="RTFrance.fr@SD" group-title="Новости",RT France (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-france-f3d0f7fb67.webp" group-title="Новости",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTFrance.fr@SD" group-title="Новости",RT France (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-france-f3d0f7fb67.webp" group-title="Новости",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RT.ru@HD" group-title="Новости",RT HD (1080p)
+#EXTINF:-1 tvg-id="RT.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-ru-3b9e850ed4.png" group-title="Новости",RT HD (1080p)
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 
-#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Новости",RT News (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-ru-3b9e850ed4.png" group-title="Новости",RT News (1080p) [Geo-blocked]
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Новости",RT News (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-ru-3b9e850ed4.png" group-title="Новости",RT News (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 
-#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Новости",RT News (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-ru-3b9e850ed4.png" group-title="Новости",RT News (1080p) [Not 24/7]
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RT.ru@SD" group-title="Новости",RT News (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-ru-3b9e850ed4.png" group-title="Новости",RT News (1080p) [Not 24/7]
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Astrahan24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/astrahan24-ru-6a05b1c940.png" group-title="Новости",Астрахань 24 (720p)
@@ -662,7 +662,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/accdigitalnetwork-us-3b5e19490f.png" group-title="Спорт",ACC Digital Network (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Спорт",ACC Network (720p)
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/accnetwork-us-eecd603b6c.png" group-title="Спорт",ACC Network (720p)
 http://23.239.31.26:8989/accnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/acisporttv-it-4cc4f0a977.png" group-title="Спорт",ACI Sport TV SD (1080p)
@@ -677,7 +677,7 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/americanninjawarrior-us-07ac40173a.png" group-title="Спорт",American Ninja Warrior (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
 
-#EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145" group-title="Спорт",AntenaPlay Events (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/antenaplayevents-ro-227cf8236c.webp" group-title="Спорт",AntenaPlay Events (576p) [Not 24/7]
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/arenasport1premium-rs-f38e9eec58.png" group-title="Спорт",Arena Sport 1 Premium (Serbia) (360p)
@@ -825,7 +825,7 @@ http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dazn3-uk-3e3f8c8e30.png" group-title="Спорт",DAZN 3 Portugal (720p)
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Спорт",DAZN 4 (540p)
+#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dazn4-uk-fbe6484c15.png" group-title="Спорт",DAZN 4 (540p)
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dazn5-uk-798c706eda.png" group-title="Спорт",DAZN 5 (720p)
@@ -840,10 +840,10 @@ https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de@DACH" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/daznheldinnenxplutotv-de-906ffbe254.png" group-title="Спорт",DAZN Heldinnen x Pluto TV
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ddsports-in-f40074f7d6.png" group-title="Спорт",DD Sports (1080p)
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ddsports-in-34747d22f1.png" group-title="Спорт",DD Sports (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ddsports-in-f40074f7d6.png" group-title="Спорт",DD Sports HD (1080p)
+#EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ddsports-in-34747d22f1.png" group-title="Спорт",DD Sports HD (1080p)
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/deportv-ar-69923d798c.png" group-title="Спорт",DeporTV (1080p)
@@ -885,7 +885,7 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Спорт",ESPN (Brazil) (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/espn-us-177199723f.png" group-title="Спорт",ESPN (United States) HD (720p)
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/espn-us-6139d5e595.png" group-title="Спорт",ESPN (United States) HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/espn2-us-8c365311ec.png" group-title="Спорт",ESPN 2 (United States) HD (720p)
@@ -939,7 +939,7 @@ https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Спорт",Esport3 Originals (1080p) [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/eurosport-in-41124d024d.png" group-title="Спорт",Eurosport (720p)
+#EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/eurosport-in-54da03580e.png" group-title="Спорт",Eurosport (720p)
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/eurosport1-fr-80b625067f.png" group-title="Спорт",Eurosport 1 Hungary
@@ -960,7 +960,7 @@ http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Spain" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/eurosport2-fr-f09496f9a3.png" group-title="Спорт",Eurosport 2 Spain (1080p)
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" group-title="Спорт",Extreme Sports Channel (576p)
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/extreme-sports-channel-d40c5e4631.webp" group-title="Спорт",Extreme Sports Channel (576p)
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="F1Channel.ie@US" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/f1channel-ie-fbf71348b0.png" group-title="Спорт",F1 Channel (1080p) [Geo-blocked]
@@ -999,7 +999,7 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Спорт",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fifapluswomen-uk-27601e5bc9.png" group-title="Спорт",FIFA+ Women (720p)
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fifapluswomen-uk-c151ca23d2.png" group-title="Спорт",FIFA+ Women (720p)
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fightbox-nl-5f69c438d6.png" group-title="Спорт",FightBox HD
@@ -1023,7 +1023,7 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Спорт",Fox Sports (1080p)
 http://138.59.227.20:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/foxsports1-us-863f71e4e9.png" group-title="Спорт",Fox Sports 1 (720p)
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/foxsports1-us-04c937aa79.png" group-title="Спорт",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Спорт",Fox Sports HD
@@ -1032,13 +1032,13 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 #EXTINF:-1 tvg-id="FoxSportsNews.au@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/foxsportsnews-au-ad194d0f8e.png" group-title="Спорт",Fox Sports News (1080p)
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
-#EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ftfsports-us-e9097484a1.png" group-title="Спорт",FTF Sports (720p)
+#EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ftfsports-us-51cd9c93f7.png" group-title="Спорт",FTF Sports (720p)
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="FTV.bo@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ftv-bo-696295572d.png" group-title="Спорт",FTV (Bolivia) (720p)
 https://master.tucableip.com/ftvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Спорт",Fubo Sports Network (1080p)
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fubosportsnetwork-us-0fec89b4a4.png" group-title="Спорт",Fubo Sports Network (1080p)
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fueltv-pt-b6ee5c0120.png" group-title="Спорт",FUEL TV (1080p)
@@ -1050,7 +1050,7 @@ https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fuel
 #EXTINF:-1 tvg-id="FUELTV.pt@US" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fueltv-pt-b6ee5c0120.png" group-title="Спорт",FUEL TV US (1080p) [Geo-blocked]
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/futv-cr-7a9678e283.png" group-title="Спорт",FUTV (1080p)
+#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/futv-cr-0a07127d1d.png" group-title="Спорт",FUTV (1080p)
 http://45.228.234.9:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="GamePlus.ca@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/gameplus-ca-32cd8b8a6f.png" group-title="Спорт",Game+ (720p)
@@ -1214,7 +1214,7 @@ http://213.91.179.28:8000/play/a0ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
 
-#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/setantasports2eurasia-ie-8240787dff.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Спорт",Setanta Sports 2 Eurasia (1080p)
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/setantasports2eurasia-ie-da8e171c08.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Спорт",Setanta Sports 2 Eurasia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
 
@@ -1311,7 +1311,7 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mnbsport-mn-e749a3b0b7.png" group-title="Спорт",MNB Sport (1080p)
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
-#EXTINF:-1 tvg-id="MonsterJam.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Спорт",Monster Jam (720p)
+#EXTINF:-1 tvg-id="MonsterJam.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/monsterjam-us-6e3fd4394f.jpg" group-title="Спорт",Monster Jam (720p)
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/monterricotv-pe-9aad9d1150.png" group-title="Спорт",Monterrico TV
@@ -1389,7 +1389,7 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/pgatour-us-68f7b9608d.png" group-title="Спорт",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/pksports-pk-f9592a4fd7.webp" group-title="Спорт",PK Sports (720p)
+#EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/pksports-pk-97d03d3f0b.png" group-title="Спорт",PK Sports (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/plutotvcompetition-us-0a53bef801.png" group-title="Спорт",Pluto TV Competition
@@ -1458,7 +1458,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
 #EXTINF:-1 tvg-id="RACERInternational.pl@FAST" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/racerinternational-pl-972b64e2ef.png" group-title="Спорт",RACER International (1080p)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="Спорт",Racer Network (1080p)
+#EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/racernetwork-us-d468d3f770.jpg" group-title="Спорт",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/racerselect-us-4e9e68cf27.png" group-title="Спорт",Racer Select (1080p)
@@ -1503,7 +1503,7 @@ https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RedBullTV.at@US" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/redbulltv-at-378b83ed96.png" group-title="Спорт",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rightnowtv-us-2abc3f3211.png" group-title="Спорт",Right Now TV (720p)
+#EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rightnowtv-us-a5526ad0c7.png" group-title="Спорт",Right Now TV (720p)
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RussianExtremeUltra.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russian-extreme-ultra-b9008cb7c9.png" group-title="Спорт",Russian Extreme Ultra (1440p)
@@ -1554,19 +1554,19 @@ http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/slopestv-us-bd17c43555.png" group-title="Спорт",Slopes TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
 
-#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten1-in-00de8e3fc0.png" group-title="Спорт",Sony Sports Ten 1 (576p)
+#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten1-in-9d6e5a241d.png" group-title="Спорт",Sony Sports Ten 1 (576p)
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten2-in-cff99bbf6c.png" group-title="Спорт",Sony Sports Ten 2 (576p)
+#EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten2-in-bf92041441.png" group-title="Спорт",Sony Sports Ten 2 (576p)
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten3hindi-in-a336d8bc69.png" group-title="Спорт",Sony Sports Ten 3 Hindi (576p)
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="SonySportsTen4.in@Kannada" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten4-in-e7068b1e48.png" group-title="Спорт",Sony Sports Ten 4 Kannada (576p)
+#EXTINF:-1 tvg-id="SonySportsTen4.in@Kannada" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten4-in-33bd34d3f4.png" group-title="Спорт",Sony Sports Ten 4 Kannada (576p)
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten5-in-7443b01f3a.png" group-title="Спорт",Sony Sports Ten 5 (576p)
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sonysportsten5-in-162fb3ac5d.png" group-title="Спорт",Sony Sports Ten 5 (576p)
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/soskanalplus-rs-f44ba3d778.png" group-title="Спорт",SOS Kanal Plus (720p)
@@ -1617,25 +1617,25 @@ https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/stadium-us-3c03e8ee7a.png" group-title="Спорт",Stadium (720p)
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsports2-in-65a65b5187.jpg" group-title="Спорт",Star Sports 2 (576p)
+#EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsports2-in-042c38779c.png" group-title="Спорт",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsports2telugu-in-3a98d2b740.jpg" group-title="Спорт",Star Sports 2 Telugu HD (576p)
+#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsports2telugu-in-b0ea9cbd42.png" group-title="Спорт",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsports3-in-392a183e41.png" group-title="Спорт",Star Sports 3 (576p)
 http://103.151.60.162:2122/play/a029/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsportsselect1-in-33d7ffbf51.jpg" group-title="Спорт",Star Sports Select 1 HD (1080p)
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsportsselect1-in-f66a447a28.png" group-title="Спорт",Star Sports Select 1 HD (1080p)
 http://103.151.60.162:2122/play/a026/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsportsselect2-in-1176025baf.jpg" group-title="Спорт",Star Sports Select 2 HD (1080p)
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/starsportsselect2-in-137a9153d8.png" group-title="Спорт",Star Sports Select 2 HD (1080p)
 http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/strongman-us-37fe354dcf.png" group-title="Спорт",Strongman (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="Спорт",Strongman Champions League (720p)
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/strongmanchampionsleague-uk-f783c79816.png" group-title="Спорт",Strongman Champions League (720p)
 https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Strongman.us@UK" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/strongman-us-37fe354dcf.png" group-title="Спорт",Strongman UK (720p)
@@ -1644,7 +1644,7 @@ https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SukanRTM.my@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sukanrtm-my-863f1700f0.png" group-title="Спорт",Sukan RTM (1080p) [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="SuperTennis.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Спорт",SuperTennis (1080p)
+#EXTINF:-1 tvg-id="SuperTennis.it@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/supertennis-it-b57e67355b.webp" group-title="Спорт",SuperTennis (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="SwerveCombat.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/swervecombat-us-5c03f29a80.png" group-title="Спорт",Swerve Combat (1080p)
@@ -1674,7 +1674,7 @@ https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 tvg-id="TennisChannel2.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tennischannel2-us-7d9b5b4460.png" group-title="Спорт",Tennis Channel 2 (1080p)
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 
-#EXTINF:-1 tvg-id="TigoSports.bo@SD" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Спорт",Tigo Sports (Bolivia) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TigoSports.bo@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tigosports-bo-44346ea756.png" group-title="Спорт",Tigo Sports (Bolivia) (720p) [Geo-blocked]
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 
 #EXTINF:-1 tvg-id="TigoSports.cr@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tigosports-cr-0ecc557f03.png" group-title="Спорт",Tigo Sports (Costa Rica) (720p) [Geo-blocked]
@@ -1698,7 +1698,7 @@ http://181.78.79.131:8000/play/a0mo
 #EXTINF:-1 tvg-id="TNTSports.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Спорт",TNT Sports (Chile) (480p)
 http://209.45.101.130:8040/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Спорт",TNT Sports Premium ArgentinaHD (1080p)
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tntsportspremium-cl-0d6f7d8e29.png" group-title="Спорт",TNT Sports Premium ArgentinaHD (1080p)
 http://181.78.79.131:8000/play/a0q9
 
 #EXTINF:-1 tvg-id="TourSpotTV.do@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tourspottv-do-9515ad2861.png" group-title="Спорт",Tour Spot TV (1280p) [Not 24/7]
@@ -1770,7 +1770,7 @@ http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/unbeaten-us-9589a0f5e0.png" group-title="Спорт",Unbeaten (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 
-#EXTINF:-1 tvg-id="Unite8Sports2.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/unite8sports2-in-11a80a2c44.webp" group-title="Спорт",Unite8 Sports 2 (576p)
+#EXTINF:-1 tvg-id="Unite8Sports2.in@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/unite8sports2-in-22bb30574e.webp" group-title="Спорт",Unite8 Sports 2 (576p)
 http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Спорт",Varzesh TV
@@ -2197,13 +2197,13 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="Pes.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/pes-db0cfb222d.jpg" group-title="Кино и сериалы",Пёс (1080p)
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Кино и сериалы",Ретро (576p)
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/retro-ru-2995135789.png" group-title="Кино и сериалы",Ретро (576p)
 http://stream.mcquack.net/191/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Кино и сериалы",Ретро
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/retro-ru-2995135789.png" group-title="Кино и сериалы",Ретро
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Кино и сериалы",Ретро (576p)
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/retro-ru-2995135789.png" group-title="Кино и сериалы",Ретро (576p)
 http://176.118.197.101/Retro/index.m3u8
 
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rodnoe-kino-0e537a76b2.png" group-title="Кино и сериалы",Родное Кино (576p)
@@ -2314,7 +2314,7 @@ https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/da-vinci-cac836f012.png" group-title="Познавательные",Da Vinci (576p)
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/introuble-nl-c8f1917cd9.png" group-title="Познавательные",InTrouble (1080p)
+#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/introuble-nl-89d366ed1a.png" group-title="Познавательные",InTrouble (1080p)
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru@SD" group-title="Познавательные",Investigation Discovery (1080p)
@@ -2522,16 +2522,16 @@ https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=20
 #EXTINF:-1 tvg-id="Channel12.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel-12-2b978ab5c5.png" group-title="Развлекательные",12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Развлекательные",2х2 (450p) [Geo-blocked]
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/2x2-44b323e73d.png" group-title="Развлекательные",2х2 (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Развлекательные",5 Канал
+#EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5-ru-ff311f6367.png" group-title="Развлекательные",5 Канал
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 
-#EXTINF:-1 tvg-id="6TVGorlovka.ru@SD" group-title="Развлекательные",6 ТВ Горловка
+#EXTINF:-1 tvg-id="6TVGorlovka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/6tvgorlovka-ru-5649cd9d31.png" group-title="Развлекательные",6 ТВ Горловка
 http://91.214.48.158:4022/udp/224.2.2.4:10000
 
 #EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8-ru-a0ecaeed9b.png" group-title="Развлекательные",8 канал (576p)
@@ -2639,19 +2639,19 @@ https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3
 #EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/guberniasamara-ru-4c460b8afc.png" group-title="Развлекательные",Губерния (Самара) (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Развлекательные",Дважды два (576i)
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/2x2-44b323e73d.png" group-title="Развлекательные",Дважды два (576i)
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 
-#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Развлекательные",Дважды два (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/2x2-44b323e73d.png" group-title="Развлекательные",Дважды два (576p)
 http://stream.mcquack.net/187/index.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Развлекательные",Дважды два (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/2x2-44b323e73d.png" group-title="Развлекательные",Дважды два (576p)
 http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Развлекательные",Дважды два (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/2x2-44b323e73d.png" group-title="Развлекательные",Дважды два (576p)
 http://185.23.80.23:8080/2x2/index.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Развлекательные",Дважды два (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/2x2-44b323e73d.png" group-title="Развлекательные",Дважды два (576p)
 http://176.118.197.101/2x2/index.m3u8
 
 #EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniezhivotnye-ru-c2aa935bbc.svg" group-title="Развлекательные",Домашние животные (576p)
@@ -2715,11 +2715,11 @@ https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kongresstv-ru-0d3b24c9ea.svg" group-title="Развлекательные",Конгресс ТВ (1080p)
 https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 
-#EXTINF:-1 tvg-id="Kuban24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuban24-ru-d69d122a14.png" group-title="Развлекательные",Кубань 24 [Geo-blocked]
+#EXTINF:-1 tvg-id="Kuban24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/кубань-24-ddace6cced.png" group-title="Развлекательные",Кубань 24 [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
-#EXTINF:-1 tvg-id="Kuban24.ru@MaikopskoyeTelevidenie" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuban24-ru-d69d122a14.png" group-title="Развлекательные",Кубань 24 Ⓞ
+#EXTINF:-1 tvg-id="Kuban24.ru@MaikopskoyeTelevidenie" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/кубань-24-ddace6cced.png" group-title="Развлекательные",Кубань 24 Ⓞ
 http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 
 #EXTINF:-1 tvg-id="KulinarTV.ru@SD" group-title="Развлекательные",Кулинар HD (576p)
@@ -2834,10 +2834,10 @@ https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5international-ru-74f516d826.png" group-title="Развлекательные",Пятый International (576p)
 https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Развлекательные",Пятый канал (576p)
+#EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5-ru-ff311f6367.png" group-title="Развлекательные",Пятый канал (576p)
 http://31.148.5.241/kanal_5/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Развлекательные",Пятый Канал (540p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5-ru-ff311f6367.png" group-title="Развлекательные",Пятый Канал (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
@@ -3132,7 +3132,7 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nickelodeon-ru-9d04d19b1b.png" group-title="Детские",Nickelodeon Россия (576p)
 http://stream.mcquack.net/443/index.m3u8
 
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru@SD" group-title="Детские",Nicktoons CIS (1080p)
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nicktoons-cis-ba40fd6f2f.png" group-title="Детские",Nicktoons CIS (1080p)
 https://stream8.cinerama.uz/1502/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tiji-2729c75e3f.png" group-title="Детские",TiJi (576p)
@@ -3252,10 +3252,10 @@ https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/stskids-ru-fa005c5883.png" group-title="Детские",СТС kids (576p)
 http://stream.mcquack.net/197/index.m3u8
 
-#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="Детские",СТС Love (576p)
+#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/stslove-ru-473de37870.png" group-title="Детские",СТС Love (576p)
 http://stream.mcquack.net/183/index.m3u8
 
-#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="Детские",СТС Love (540p) [Geo-blocked]
+#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/stslove-ru-473de37870.png" group-title="Детские",СТС Love (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
@@ -3361,7 +3361,7 @@ https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/yuvelirochka-ru-826414ed29.png" group-title="Телемагазин",Ювелирочка ТВ (576p)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24KZ.kz@SD" group-title="Казахстан",24KZ (576p)
+#EXTINF:-1 tvg-id="24KZ.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/24kz-kz-ef054deddc.svg" group-title="Казахстан",24KZ (576p)
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="31Kanal.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/31-kanal-f564c709d0.png" group-title="Казахстан",31 арна (576p)
@@ -3373,10 +3373,10 @@ https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="AtamekenBusiness.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/atamekenbusiness-kz-d6078dd512.png" group-title="Казахстан",Atameken Business (576p)
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Channel7.kz@SD" group-title="Казахстан",Channel 7 (576p)
+#EXTINF:-1 tvg-id="Channel7.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel7-kz-34c64f9e58.svg" group-title="Казахстан",Channel 7 (576p)
 http://stream.mcquack.net/27/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel7.kz@SD" group-title="Казахстан",Channel 7 (576p)
+#EXTINF:-1 tvg-id="Channel7.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel7-kz-34c64f9e58.svg" group-title="Казахстан",Channel 7 (576p)
 https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nickelodeon-ff70136049.png" group-title="Казахстан",Nickelodeon CIS (1080p)
@@ -3424,10 +3424,10 @@ https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Aqtobe.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/aqtobe-kz-45e901edd4.png" group-title="Казахстан",Ақтөбе (576p)
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Balapan.kz@HD" group-title="Казахстан",Балапан (1080p)
+#EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/balapan-kz-464874228e.png" group-title="Казахстан",Балапан (1080p)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Balapan.kz@SD" group-title="Казахстан",Балапан (576p)
+#EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/balapan-kz-464874228e.png" group-title="Казахстан",Балапан (576p)
 https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Ertis.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ertis-kz-a8686ca478.png" group-title="Казахстан",Ертіс
@@ -3619,7 +3619,7 @@ https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/univer-tv-11959e680b.png" group-title="Прочие",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YaltaTV.ru@SD" group-title="Прочие",Yalta TV (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="YaltaTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/yaltatv-ru-147b56d900.jpg" group-title="Прочие",Yalta TV (480p) [Geo-blocked]
 http://195.26.83.96:7029/play/a006
 
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zoopark-ru-625bedb0ad.svg" group-title="Прочие",Zooпарк (576i)
@@ -3733,7 +3733,7 @@ https://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvlaw-ru-2f1e2a7d75.png" group-title="Прочие",НТВ Право (576p)
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTVSvoyaigra.ru@SD" group-title="Прочие",НТВ Своя игра (1080p)
+#EXTINF:-1 tvg-id="NTVSvoyaigra.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvsvoyaigra-ru-ed730261d2.png" group-title="Прочие",НТВ Своя игра (1080p)
 https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvsledstviyeveli-ru-a1c7fc41f4.png" group-title="Прочие",НТВ Следствие вели
@@ -3795,7 +3795,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sarafan-1bc2f9ef5c.png" group-title="Прочие",Сарафан (576p)
 http://stream.mcquack.net/81/index.m3u8
 
-#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solovyovlive-ru-3ddcdc7ddc.png" tvg-id="SolovyovLive.ru" tvg-country="RU" group-title="Прочие",Соловьёв Live
+#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solovyovlive-ru-7976ab8961.png" tvg-id="SolovyovLive.ru" tvg-country="RU" group-title="Прочие",Соловьёв Live
 https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
 
 #EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png" group-title="Прочие",Т24 (576p)

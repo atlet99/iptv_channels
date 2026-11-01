@@ -41,12 +41,10 @@ the player's EPG source at `lgiptv-epg.xml.gz`.
 <details>
 <summary>Legal notice — click to expand</summary>
 
-> [!CAUTION]
-> Everything in this repository was found in open sources. Every channel
-> link and piece of metadata was collected solely from **publicly
-> accessible, unauthenticated endpoints** that third-party services
-> themselves expose on the open internet. Nothing was hacked, cracked,
-> bypassed or paid for.
+**:warning: Caution:** Everything in this repository was found in open sources.
+Every channel link and piece of metadata was collected solely from **publicly
+accessible, unauthenticated endpoints** that third-party services themselves
+expose on the open internet. Nothing was hacked, cracked, bypassed or paid for.
 
 - The channel **logos in `assets/` were collected from openly available
   sources** (official channel sites, public channel databases and public

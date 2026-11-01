@@ -1,0 +1,27 @@
+# Project internals — never publish (reverse engineering mechanics)
+/test_results/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Secrets and tokens
+.env
+*.env
+*.pem
+*.key
+*.token
+
+# Logs
+*.log
+
+# Editors / IDE
+.idea/
+.vscode/
+.claude/

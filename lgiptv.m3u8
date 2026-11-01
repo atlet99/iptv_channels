@@ -495,7 +495,7 @@ https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Ю" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png" tvg-id="U.ru" tvg-country="RU" group-title="Федеральные",Ю Ⓢ
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 
-#EXTINF:-1 tvg-id="12_OMSK" tvg-name="12 канал" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/12-канал-2c0c7d643b.png" group-title="Новости",12 канал
+#EXTINF:-1 tvg-id="12_OMSK" tvg-name="12 канал" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/12-kanal-2c0c7d643b.png" group-title="Новости",12 канал
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/360-novosti-3a673c6894.png" group-title="Новости",360° Новости
@@ -519,7 +519,7 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/euronewsrussian-fr-2afb88de4e.png" group-title="Новости",Euronews Russian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
-#EXTINF:-1 tvg-id="Rus_Today" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/rt-b75c816499.png" group-title="Новости",RT
+#EXTINF:-1 tvg-id="Rus_Today" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-b75c816499.png" group-title="Новости",RT
 https://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8
 
 #EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-ru-62954d9e43.webp" group-title="Новости",RT (720p)
@@ -715,9 +715,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bahrainsports2-bh-997c2f81e5.png" group-title="Спорт",Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bandsports-br-2c0f4dbce1.png" group-title="Спорт",Band Sports (1080p)
-https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="BarcaTV.es@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/barcatv-es-4670025697.png" group-title="Спорт",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
@@ -1119,12 +1116,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/l1max-pe-3e40d5d55c.png" group-title="Спорт",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="LacrosseTV.us@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/lacrossetv-us-d3499ac96b.jpg" group-title="Спорт",Lacrosse TV (720p)
-https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LazioStyleChannel.it@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/laziostylechannel-it-7119d6f4a4.png" group-title="Спорт",Lazio Style Channel HD (720p)
-https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tigosportsplus-py-4817085fe5.webp" http-referrer="https://www.tigosports.com.py/" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" group-title="Спорт",Tigo Sports+ (1280p)
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
@@ -1524,9 +1515,6 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/skyracing2-au-1de59a8f8a.png" group-title="Спорт",Sky Racing 2 (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySport1.nz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/skysport1-nz-a49b7a02ba.png" group-title="Спорт",Sky Sport 1
-http://37.49.224.5/stream/44/index.m3u8
-
 #EXTINF:-1 tvg-id="SkySport2.nz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/skysport2-nz-fceb745539.png" group-title="Спорт",Sky Sport 2
 http://37.49.224.5/stream/45/index.m3u8
 
@@ -1584,17 +1572,11 @@ https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 #EXTINF:-1 tvg-id="SportTV.by@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sporttv-by-5c752e5a2d.png" group-title="Спорт",Sport TV (1080p)
 http://178.124.179.122:8080/SportTV/mpegts
 
-#EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sportitalia-it-ae4e851876.png" group-title="Спорт",Sportitalia (1080p)
-https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sportitalia24.it@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sportitalia24-it-d1ed4b908b.png" group-title="Спорт",Sportitalia 24 (720p) [Geo-blocked]
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SportitaliaMotori.it@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sportitaliamotori-it-9b98c6a9da.png" group-title="Спорт",Sportitalia Motori (720p) [Geo-blocked]
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sportitaliamotori-it-9b98c6a9da.png" group-title="Спорт",Sportitalia Solocalcio (1080p)
-https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sportstelevision-kp-730614ddd8.png" group-title="Спорт",Sports Television (720p) [Not 24/7]
 https://live.koryocdn.org/sports/index.m3u8
@@ -2492,7 +2474,7 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ohotnikirybolov-ru-031cddc3ad.png" group-title="Познавательные",Охотник и рыболов (1080p)
 http://stream.mcquack.net/194/index.m3u8
 
-#EXTINF:-1 tvg-id="Prosvejeni" tvg-name="Просвещение" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/просвещение-546e0a1d97.png" group-title="Познавательные",Просвещение
+#EXTINF:-1 tvg-id="Prosvejeni" tvg-name="Просвещение" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/prosveschenie-546e0a1d97.png" group-title="Познавательные",Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 
 #EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rybolov-007671ca55.png" group-title="Познавательные",Рыболов (576p)
@@ -2506,9 +2488,6 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="black.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/black-64369c6f77.png" group-title="Развлекательные",.black (576p)
 http://stream.mcquack.net/263/index.m3u8
-
-#EXTINF:-1 tvg-id="red.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/red-c338e59e82.png" group-title="Развлекательные",.red (576p)
-http://5.188.159.128:8070/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="red.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/red-c338e59e82.png" group-title="Развлекательные",.red (576p)
 http://stream.mcquack.net/69/index.m3u8
@@ -3078,7 +3057,7 @@ https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FONMusic.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fonmusic-ru-aee4541016.png" group-title="Музыка",ТНТ Music (576p)
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SHANSON" tvg-name="Шансон ТВ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/шансон-тв-42b11d19a7.png" group-title="Музыка",Шансон ТВ
+#EXTINF:-1 tvg-id="SHANSON" tvg-name="Шансон ТВ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shanson-tv-42b11d19a7.png" group-title="Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png" group-title="Музыка",Шансон ТВ
@@ -3301,7 +3280,7 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/samaragis-ru-7ecc98d44a.png" group-title="Региональные",Самара ГИС (1080p) [Not 24/7]
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SPB_TV" tvg-name="Санкт-Петербург" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/санкт-петербург-56698405c7.png" group-title="Региональные",Санкт-Петербург
+#EXTINF:-1 tvg-id="SPB_TV" tvg-name="Санкт-Петербург" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sankt-peterburg-56698405c7.png" group-title="Региональные",Санкт-Петербург
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Север" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sever-ru-e7ab10b26f.png" tvg-id="Sever.ru" tvg-country="RU" group-title="Региональные",Север
@@ -3535,12 +3514,6 @@ http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1802.png" group-title="Узбекистан",Futbol TV UZ
 https://s03.watcher.uz/74/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1792.png" group-title="Узбекистан",Milliy TV UZ
-https://s05.watcher.uz/70/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1791.png" group-title="Узбекистан",My 5 UZ
-https://s05.watcher.uz/69/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
 #EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1803.png" group-title="Узбекистан",Navo UZ
 https://s05.watcher.uz/65/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
@@ -3553,20 +3526,8 @@ https://s04.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 tvg-id="Sport.uz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sport-uz-5fd403162c.png" group-title="Узбекистан",Sport (Uzbekistan)
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1788.png" group-title="Узбекистан",Sport UZ
-https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1789.png" group-title="Узбекистан",Toshkent UZ
-https://s03.watcher.uz/58/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
 #EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1785.png" group-title="Узбекистан",Uzbekistan 24 UZ
 https://s04.watcher.uz/8/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1786.png" group-title="Узбекистан",Uzbekistan UZ
-https://s03.watcher.uz/56/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1801.png" group-title="Узбекистан",UzReport TV UZ
-https://s03.watcher.uz/75/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1787.png" group-title="Узбекистан",Yoshlar UZ
 https://s03.watcher.uz/57/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15

@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="lgiptv-epg.xml" x-tvg-url="lgiptv-epg.xml"
 
-#EXTINF:-1 tvg-id="2x2.ru@SD",2x2 (576i)
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2 (450p) [Geo-blocked] (576i)
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 
-#EXTINF:-1 tvg-id="2x2.ru@SD",2x2 SD (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2 (450p) [Geo-blocked] (576p)
 http://stream.mcquack.net/187/index.m3u8
 
-#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/5-minut-tishiny-0b22300d0d.jpg",5 minut tishiny (1080p)
+#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/5-minut-tishiny-0b22300d0d.jpg",Пять минут тишины (1080p)
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/360-5ae2b822cd.png",360° (1080p)
@@ -18,7 +18,7 @@ https://streaming.thestream.cyou/live/7000.m3u8
 #EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/360-новости-3a673c6894.png",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 
-#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/365-days-tv-e1ac04caf3.png",365 days TV (576p)
+#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/365-days-tv-e1ac04caf3.png",365 Дней (576p)
 http://stream.mcquack.net/70/index.m3u8
 
 #EXTINF:-1 tvg-id="black.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/black-64369c6f77.png",.black (576p)
@@ -39,25 +39,25 @@ http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ani-ru-e1e08f07b3.png",Ani (576p)
 http://stream.mcquack.net/306/index.m3u8
 
-#EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/art-ru-0775223723.webp",ART (576p)
+#EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/art-ru-0775223723.webp",АРТ (576p)
 http://89.104.114.24:8080/art/index.m3u8
 
-#EXTINF:-1 tvg-id="AutoPlus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/autoplus-ru-30b8b607bc.png",Auto Plus
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/autoplus-ru-30b8b607bc.png",Авто Плюс
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/avto24-7bc8ce6cf7.png",Avto24 (576p)
+#EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/avto24-7bc8ce6cf7.png",Авто24 (576p)
 http://stream.mcquack.net/78/index.m3u8
 
-#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/balabol-a08e493e8a.jpg",Balabol (1080p)
+#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/balabol-a08e493e8a.jpg",Балабол (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 
-#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/soyuzny-d7699bcea3.png",Soyuzny (576p)
+#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/soyuzny-d7699bcea3.png",Союзный (576p)
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Blokbaster.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/blokbaster-hd-61c6ec5d9e.png",Blokbaster HD (1080p)
+#EXTINF:-1 tvg-id="Blokbaster.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/blokbaster-hd-61c6ec5d9e.png",Блокбастер (1080p)
 http://stream.mcquack.net/364/index.m3u8
 
-#EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/boks-tv-63cc27bdfc.png",Boks TV (576p)
+#EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/boks-tv-63cc27bdfc.png",Бокс ТВ (576p)
 http://stream.mcquack.net/154/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bridge-2ea2dc8bfd.png",BRIDGE (576p)
@@ -72,49 +72,46 @@ http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bridge-hits-361b0074ba.png",BRIDGE Hits (576p)
 http://stream.mcquack.net/320/index.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Carousel (720p)
+#EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Карусель (720p)
 http://185.37.150.46/Karusel/index.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Carousel (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Карусель (576p)
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Carousel SD (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Карусель (576p)
 http://stream.mcquack.net/120/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5international-ru-74f516d826.png",Channel 5 International (576p)
+#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5international-ru-74f516d826.png",Пятый International (576p)
 http://178.134.1.158:8081/5channel/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5international-ru-74f516d826.png",Channel 5 International (576i)
+#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5international-ru-74f516d826.png",Пятый International (576i)
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 
-#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8-ru-a0ecaeed9b.png",Channel 8 (576p)
+#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8-ru-a0ecaeed9b.png",8 канал (576p)
 http://45.11.139.43:8555/8kanal/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8-ru-a0ecaeed9b.png",Channel 8 (576p)
+#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8-ru-a0ecaeed9b.png",8 канал (576p)
 http://tshift-1.telecoma.tv/8channel/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8-ru-a0ecaeed9b.png",Channel 8 (576p)
+#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8-ru-a0ecaeed9b.png",8 канал (576p)
 https://v4.proofix.ru/8tv-russia/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8krasnoyarsk-ru-1e55f8c199.png",Channel 8 Krasnoyarsk HD (1080p)
+#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8krasnoyarsk-ru-1e55f8c199.png",8 канал Красноярск (1080p)
 https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Channel8Novosibirsk.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8novosibirsk-ru-e0c270256a.png",Channel 8 Novosibirsk (480i)
+#EXTINF:-1 tvg-id="Channel8Novosibirsk.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8novosibirsk-ru-e0c270256a.png",8 канал Новосибирск (480i)
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel10.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel10-ru-5eb20673ce.png",Channel 10 (576i)
+#EXTINF:-1 tvg-id="Channel10.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel10-ru-5eb20673ce.png",10 канал (576i)
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 
-#EXTINF:-1 tvg-id="Channel12.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel-12-2b978ab5c5.png",Channel 12 (576p) [Geo-blocked]
-https://streaming.thestream.cyou/live/7004.m3u8
-
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Channel One (576p)
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Первый канал (576p)
 http://45.153.24.78/1TV/index.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Channel One (576p)
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Первый канал (576p)
 http://178.217.49.7/1/index.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Channel One HD (720p)
+#EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Первый канал (720p)
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/cinema-ru-8a6d506606.png",Cinema
@@ -135,49 +132,49 @@ https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dancehits80-ru-7a6698382c.png",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 
-#EXTINF:-1 tvg-id="Dikayaokhota.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dikaya-okhota-hd-edf4c30c51.png",Dikaya okhota HD (1080p)
+#EXTINF:-1 tvg-id="Dikayaokhota.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dikaya-okhota-hd-edf4c30c51.png",Дикая охота (1080p)
 http://stream.mcquack.net/274/index.m3u8
 
-#EXTINF:-1 tvg-id="Dikayarybalka.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dikaya-rybalka-hd-21322568a3.png",Dikaya rybalka HD (1080p)
+#EXTINF:-1 tvg-id="Dikayarybalka.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dikaya-rybalka-hd-21322568a3.png",Дикая рыбалка (1080p)
 http://stream.mcquack.net/275/index.m3u8
 
-#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/doctor-ru-1193115bf4.png",Doctor (576p)
+#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/doctor-ru-1193115bf4.png",Доктор (576p)
 http://178.134.1.158:8081/doktor/index.m3u8
 
-#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/doctor-ru-1193115bf4.png",Doctor (576i)
+#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/doctor-ru-1193115bf4.png",Доктор (576i)
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Domkino.ru@SD",Dom kino (576p)
+#EXTINF:-1 tvg-id="Domkino.ru@SD",Дом Кино (576p)
 http://stream.mcquack.net/236/index.m3u8
 
-#EXTINF:-1 tvg-id="Domkino.ru@SD",Dom kino
+#EXTINF:-1 tvg-id="Domkino.ru@SD",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dom-kino-premium-hd-7cbf01d8f9.png",Dom kino Premium HD (1080p)
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dom-kino-premium-hd-7cbf01d8f9.png",Дом Кино Премиум HD (1080p)
 http://stream.mcquack.net/108/index.m3u8
 
-#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniy-ru-1c0fcf32f5.jpg",Domashniy SD (576p)
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniy-ru-1c0fcf32f5.jpg",Домашний (576p)
 http://stream.mcquack.net/227/index.m3u8
 
-#EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dorama-22fd94aa58.png",Dorama
+#EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dorama-22fd94aa58.png",Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dorama.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dorama-22fd94aa58.png",Dorama HD (1080p)
+#EXTINF:-1 tvg-id="Dorama.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dorama-22fd94aa58.png",Дорама (1080p)
 http://stream.mcquack.net/412/index.m3u8
 
-#EXTINF:-1 tvg-id="Drive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/drive-ceeeee6160.png",Drive (576i)
+#EXTINF:-1 tvg-id="Drive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/drive-ceeeee6160.png",Драйв (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dushevnoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dushevnoe-hd-835d3693c0.png",Dushevnoe HD (1080p)
+#EXTINF:-1 tvg-id="Dushevnoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dushevnoe-hd-835d3693c0.png",Душевное (1080p)
 http://stream.mcquack.net/213/index.m3u8
 
-#EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/enisey-ru-071ee4a7b9.png",Enisey (576p)
+#EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/enisey-ru-071ee4a7b9.png",Енисей (1080p) [Not 24/7] (576p)
 http://tshift-1.telecoma.tv/enisei/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/europa-plus-tv-belarus-190dfa555b.png",Europa Plus TV SD (576p)
 http://stream.mcquack.net/184/index.m3u8
 
-#EXTINF:-1 tvg-id="Evrokino.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/evrokino-hd-355b8c2c6d.png",Evrokino HD (1080p)
+#EXTINF:-1 tvg-id="Evrokino.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/evrokino-hd-355b8c2c6d.png",Еврокино (1080p)
 http://stream.mcquack.net/385/index.m3u8
 
 #EXTINF:-1 tvg-id="FAN.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fan-ru-a5b5a7f7ba.png",FAN (576p)
@@ -189,7 +186,7 @@ http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 tvg-id="",Fon Music (576p)
 http://stream.mcquack.net/317/index.m3u8
 
-#EXTINF:-1 tvg-id="FoodTime.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/foodtime-ru-b45e6f0b24.png",FoodTime (1080p)
+#EXTINF:-1 tvg-id="FoodTime.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/foodtime-ru-b45e6f0b24.png",Еда Премиум (1080p)
 http://stream.mcquack.net/216/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fox-ru-db920cdc26.png",Fox (576p)
@@ -198,13 +195,13 @@ http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="FoxLife.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fox-life-0126e83153.png",Fox Life (576p)
 http://stream.mcquack.net/129/index.m3u8
 
-#EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/friday-86fa92a2d0.png",Friday! (576p)
+#EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/friday-86fa92a2d0.png",Пятница! (576p)
 http://stream.mcquack.net/181/index.m3u8
 
-#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/glazamiturista-ru-70cf2fcd07.png",Glazami Turista (576i)
+#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/glazamiturista-ru-70cf2fcd07.png",Глазами Туриста (576i)
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Groznyj.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/groznyj-ru-1b9229693d.png",Groznyj
+#EXTINF:-1 tvg-id="Groznyj.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/groznyj-ru-1b9229693d.png",Грозный
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 
 #EXTINF:-1 tvg-id="GulliGirl.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/gulligirl-ru-2d703dc0d2.png",Gulli Girl (720p)
@@ -213,220 +210,220 @@ https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/gulligirl-ru-2d703dc0d2.png",Gulli Girl (576p)
 http://stream.mcquack.net/305/index.m3u8
 
-#EXTINF:-1 tvg-id="Hit.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/hit-hd-8affaa387d.png",Hit HD (1080p)
+#EXTINF:-1 tvg-id="Hit.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/hit-hd-8affaa387d.png",Хит (1080p)
 http://stream.mcquack.net/363/index.m3u8
 
-#EXTINF:-1 tvg-id="HorosheeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/horosheekino-ru-0ecf666e02.png",Horoshee Kino (720p)
+#EXTINF:-1 tvg-id="HorosheeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/horosheekino-ru-0ecf666e02.png",Хорошее кино (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Indiyskoye Kino (576p)
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Индийское кино (576p)
 http://188.113.190.12/329/index.m3u8
 
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Indiyskoye Kino (576p)
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Индийское кино (576p)
 http://stream.mcquack.net/104/index.m3u8
 
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Indiyskoye Kino
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Индийское кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="InsaytTV.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/insayt-tv-c2dd283898.png",Insayt TV (2160p)
+#EXTINF:-1 tvg-id="InsaytTV.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/insayt-tv-c2dd283898.png",Инсайт ТВ (2160p)
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="InsaytTV.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/insayt-tv-c2dd283898.png",Insayt TV (1080p)
+#EXTINF:-1 tvg-id="InsaytTV.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/insayt-tv-c2dd283898.png",Инсайт ТВ (1080p)
 http://stream.mcquack.net/361/index.m3u8
 
-#EXTINF:-1 tvg-id="KapitanFantastika.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kapitan-fantastika-0eaeefa2d0.png",Kapitan Fantastika (1080p)
+#EXTINF:-1 tvg-id="KapitanFantastika.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kapitan-fantastika-0eaeefa2d0.png",Капитан Фантастика (1080p)
 http://stream.mcquack.net/144/index.m3u8
 
-#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khl-95e1e1c0ba.png",KHL (576p)
+#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khl-95e1e1c0ba.png",КХЛ (576p)
 http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khlprime-ru-c5c0185d98.png",KHL Prime (1080p)
 http://stream.mcquack.net/178/index.m3u8
 
-#EXTINF:-1 tvg-id="KinoTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kino-tv-hd-e3bf50756c.png",Kino TV HD (1080p)
+#EXTINF:-1 tvg-id="KinoTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kino-tv-hd-e3bf50756c.png",КИНОТВ (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kino-tv-hd-e3bf50756c.png",Kino TV SD (576p)
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kino-tv-hd-e3bf50756c.png",КИНОТВ (576p)
 http://stream.mcquack.net/221/index.m3u8
 
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinohit-e0f602b2cd.png",KinoHit (576p)
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinohit-e0f602b2cd.png",Кинохит (576p)
 http://stream.mcquack.net/126/index.m3u8
 
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinohit-e0f602b2cd.png",KinoHit
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinohit-e0f602b2cd.png",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinokomedija-ffe0d10b4e.png",Kinokomedija (576p)
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinokomedija-ffe0d10b4e.png",Кинокомедия (576p)
 http://stream.mcquack.net/265/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinomix-edc9c85016.png",Kinomix (576p)
+#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinomix-edc9c85016.png",Киномикс (576p)
 http://93.170.254.17/Kinomiks/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinomix-edc9c85016.png",Kinomix (576p)
+#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinomix-edc9c85016.png",Киномикс (576p)
 http://stream.mcquack.net/133/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopokaz-8140b633e6.png",Kinopokaz (576p)
+#EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopokaz-8140b633e6.png",Кинопоказ (576p)
 http://stream.mcquack.net/64/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopokaz-8140b633e6.png",Kinopokaz
+#EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopokaz-8140b633e6.png",Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopremyera-1103df8d00.png",Kinopremyera (1080p)
+#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopremyera-1103df8d00.png",Кинопремьера (1080p)
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopremyera-1103df8d00.png",Kinopremyera
+#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopremyera-1103df8d00.png",Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosemja-ea77dba428.png",Kinosemja (576p)
+#EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosemja-ea77dba428.png",Киносемья (576p)
 http://stream.mcquack.net/170/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Kinosvidanie (576p)
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Киносвидание (576p)
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Kinosvidanie (576p)
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Киносвидание (576p)
 http://stream.mcquack.net/171/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Kinosvidanie
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Киносвидание
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinouzhas-80952f01d8.png",Kinouzhas (576p)
+#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinouzhas-80952f01d8.png",Киноужас (576p)
 http://stream.mcquack.net/278/index.m3u8
 
-#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/komedia-a6759225a7.png",Komedia (576p)
+#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/komedia-a6759225a7.png",Комедия (576p)
 http://stream.mcquack.net/68/index.m3u8
 
-#EXTINF:-1 tvg-id="Komediynoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/komediynoe-hd-e3f8c23f4c.png",Komediynoe HD (1080p)
+#EXTINF:-1 tvg-id="Komediynoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/komediynoe-hd-e3f8c23f4c.png",Комедийное (1080p)
 http://stream.mcquack.net/74/index.m3u8
 
-#EXTINF:-1 tvg-id="KongressTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kongresstv-ru-0d3b24c9ea.svg",Kongress TV (1080p)
+#EXTINF:-1 tvg-id="KongressTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kongresstv-ru-0d3b24c9ea.svg",Конгресс ТВ (1080p)
 https://live-3.otcnet.ru/congresstv/index.m3u8
 
-#EXTINF:-1 tvg-id="KongressTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kongresstv-ru-0d3b24c9ea.svg",Kongress TV (1080p)
+#EXTINF:-1 tvg-id="KongressTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kongresstv-ru-0d3b24c9ea.svg",Конгресс ТВ (1080p)
 https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 
-#EXTINF:-1 tvg-id="Kuhnya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuhnya-ru-3788cadb48.png",Kuhnya (576p)
+#EXTINF:-1 tvg-id="Kuhnya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuhnya-ru-3788cadb48.png",Кухня (576p)
 http://stream.mcquack.net/179/index.m3u8
 
-#EXTINF:-1 tvg-id="KulinarTV.ru@SD",Kulinar TV (576p)
+#EXTINF:-1 tvg-id="KulinarTV.ru@SD",Кулинар HD (576p)
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kvn-tv-e3fdd9d27b.png",KVN TV (576p)
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kvn-tv-e3fdd9d27b.png",КВН ТВ (576p)
 http://178.124.179.122:8080/KVN-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="LawTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/lawtv-ru-0af1b78d73.png",Law TV (1080p)
+#EXTINF:-1 tvg-id="LawTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/lawtv-ru-0af1b78d73.png",Закон ТБ (1080p)
 http://stream.mcquack.net/406/index.m3u8
 
-#EXTINF:-1 tvg-id="Maidan.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/maidan-ru-389f48d3f5.png",Maidan (720p)
+#EXTINF:-1 tvg-id="Maidan.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/maidan-ru-389f48d3f5.png",Майдан (720p)
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mama-2eaa768a53.png",Mama (576p)
+#EXTINF:-1 tvg-id="Mama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mama-2eaa768a53.png",Мама (576p)
 http://stream.mcquack.net/79/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchArena.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-arena-37501780ad.png",Match! Arena (576p)
+#EXTINF:-1 tvg-id="MatchArena.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-arena-37501780ad.png",МАТЧ! Арена (576p)
 http://stream.mcquack.net/163/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchBoets.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-boets-66276426e7.png",Match! Boets (576p)
+#EXTINF:-1 tvg-id="MatchBoets.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-boets-66276426e7.png",МАТЧ! Боец (576p)
 http://stream.mcquack.net/112/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchIgra.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-igra-6253676dd2.png",Match! Igra (576p)
+#EXTINF:-1 tvg-id="MatchIgra.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-igra-6253676dd2.png",МАТЧ! Игра (576p)
 http://stream.mcquack.net/188/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-strana-377c73e032.png",Match! Strana (576p)
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-strana-377c73e032.png",МАТЧ! Страна (576p)
 http://stream.mcquack.net/143/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Match! Ultra (720p)
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Матч! Ультра (720p)
 http://stream.mcquack.net/169/index.m3u8
 
-#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",Mir (576p)
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",МИР (576p)
 http://45.153.24.78/MIR/index.m3u8
 
-#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",Mir
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",МИР
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir24-ru-a43ba0a3e9.png",Mir 24 (576p)
+#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir24-ru-a43ba0a3e9.png",Мир 24 (576p)
 http://5.188.159.128:8070/mir_24/index.m3u8
 
-#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir24-ru-a43ba0a3e9.png",Mir 24
+#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir24-ru-a43ba0a3e9.png",Мир 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Mir.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",Mir HD (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Mir.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mir.ru@Kazakhstan" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",Mir Kazakhstan (576p)
+#EXTINF:-1 tvg-id="Mir.ru@Kazakhstan" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",МИР (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mma-tv-com-43e1780e2c.png",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mosfilmgoldcollection-ru-2b5a095dcb.png",Mosfilm Gold Collection (576p)
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mosfilmgoldcollection-ru-2b5a095dcb.png",Мосфильм Золотая коллекция (576p)
 http://stream.mcquack.net/369/index.m3u8
 
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Moskva 24 (1080p)
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Москва 24 (1080p)
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Moskva 24 (720p)
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Москва 24 (720p)
 https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
 
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Moskva 24 (576p)
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Москва 24 (576p)
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskvadoveriye-ru-3a8d2bface.png",Moskva. Doveriye (576p)
+#EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskvadoveriye-ru-3a8d2bface.png",Москва. Доверие (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Moymir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moymir-ru-ce435c1608.png",Moy mir (720p)
+#EXTINF:-1 tvg-id="Moymir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moymir-ru-ce435c1608.png",Мой мир (720p)
 https://moymir.ru/hls/onair.m3u8
 
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moyaplaneta-ru-417208820c.png",Moya Planeta (576p)
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moyaplaneta-ru-417208820c.png",Моя Планета (576p)
 http://stream.mcquack.net/124/index.m3u8
 
-#EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moya-stikhiya-hd-ca7e18a5f9.png",Moya stikhiya HD (1080p)
+#EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moya-stikhiya-hd-ca7e18a5f9.png",Моя стихия (1080p)
 http://stream.mcquack.net/141/index.m3u8
 
-#EXTINF:-1 tvg-id="Mult.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Mult (576p)
+#EXTINF:-1 tvg-id="Mult.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Мульт (576p)
 http://stream.mcquack.net/232/index.m3u8
 
-#EXTINF:-1 tvg-id="Multimuzyka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-i-muzyka-a1108a66db.png",Mult i muzyka (576p)
+#EXTINF:-1 tvg-id="Multimuzyka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-i-muzyka-a1108a66db.png",Мульт и Музыка (576p)
 http://stream.mcquack.net/82/index.m3u8
 
-#EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/multilandia-ru-3e2d909ba6.png",Multilandia
+#EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/multilandia-ru-3e2d909ba6.png",Мультиландия
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",Muz-TV (576p)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",МузТВ (576p)
 http://stream.mcquack.net/86/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",Muz-TV
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",МузТВ
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzhskoe-kino-9cd4d1dad6.png",Muzhskoe kino (576p)
+#EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzhskoe-kino-9cd4d1dad6.png",Мужское кино (576p)
 http://stream.mcquack.net/107/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzykaLive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzykalive-ru-157f606402.png",Muzyka Live (576p)
+#EXTINF:-1 tvg-id="MuzykaLive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzykalive-ru-157f606402.png",Музыка Live (576p)
 http://stream.mcquack.net/303/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzyka-pervogo-1d34a248c6.png",Muzyka Pervogo (576p)
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzyka-pervogo-1d34a248c6.png",Музыка Первого (576p)
 http://stream.mcquack.net/153/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzyka-pervogo-1d34a248c6.png",Muzyka Pervogo
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzyka-pervogo-1d34a248c6.png",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nano.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nano-5192e8cf05.png",Nano (576p)
+#EXTINF:-1 tvg-id="Nano.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nano-5192e8cf05.png",Нано ТВ HD (576p)
 http://stream.mcquack.net/419/index.m3u8
 
-#EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashe-hd-ab21259fec.png",Nashe HD (576p)
+#EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashe-hd-ab21259fec.png",Наше (576p)
 http://stream.mcquack.net/217/index.m3u8
 
-#EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashe-muzhskoe-hd-eed907d7d7.png",Nashe muzhskoe HD (1080p)
+#EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashe-muzhskoe-hd-eed907d7d7.png",Наше мужское (1080p)
 http://stream.mcquack.net/362/index.m3u8
 
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashenovoekino-ru-f8f96e3bf2.png",Nashe Novoe Kino
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashenovoekino-ru-f8f96e3bf2.png",Наше новое кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",National Geographic (576p)
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",National Geographic Россия (576p)
 http://stream.mcquack.net/116/index.m3u8
 
-#EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nauka-ru-666360570a.png",Nauka (576p)
+#EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nauka-ru-666360570a.png",Наука (576p)
 http://stream.mcquack.net/125/index.m3u8
 
-#EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nevskiy-ru-6c44e3ce8e.jpg",Nevskiy (1080p)
+#EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nevskiy-ru-6c44e3ce8e.jpg",Невский (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.ru@SD",Nick Jr. (576p)
@@ -435,112 +432,112 @@ http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru@SD",Nick Jr. (576p)
 https://stream8.cinerama.uz/1501/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nickelodeon-ru-9d04d19b1b.png",Nickelodeon (576p)
+#EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nickelodeon-ru-9d04d19b1b.png",Nickelodeon Россия (576p)
 http://stream.mcquack.net/443/index.m3u8
 
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru@SD",Nicktoons CIS (1080p)
 https://stream8.cinerama.uz/1502/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NST.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nst-ru-d0bfeaecd7.png",NST (576p)
+#EXTINF:-1 tvg-id="NST.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nst-ru-d0bfeaecd7.png",НСТ (576p)
 http://stream.mcquack.net/207/index.m3u8
 
-#EXTINF:-1 tvg-id="NST.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nst-ru-d0bfeaecd7.png",NST (576p)
+#EXTINF:-1 tvg-id="NST.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nst-ru-d0bfeaecd7.png",НСТ (576p)
 https://vod.tuva.ru/nst/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",NTV
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",НТВ
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",NTV HD (1080p)
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",НТВ (1080p)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",NTV HD (1080p)
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",НТВ (1080p)
 https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-mir-ece92b501a.png",NTV Mir (576p)
+#EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-mir-ece92b501a.png",НТВ Мир (576p)
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",NTV SD (576p)
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",НТВ (576p)
 https://cdn.ntv.ru/ntv-spb/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvseries-ru-61e837ac7e.png",NTV Series (576p)
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvseries-ru-61e837ac7e.png",НТВ Сериал (576p)
 http://stream.mcquack.net/301/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVVitrina.ru@SD",NTV Vitrina (720p)
+#EXTINF:-1 tvg-id="NTVVitrina.ru@SD",НТВ Витрина (720p)
 https://cdn.ntv.ru/vitrina/index.m3u8
 
-#EXTINF:-1 tvg-id="O.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/o-ru-b4df22b8df.png",O! (576p)
+#EXTINF:-1 tvg-id="O.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/o-ru-b4df22b8df.png",О! (576p)
 http://stream.mcquack.net/60/index.m3u8
 
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ohotnikirybolov-ru-031cddc3ad.png",Ohotnik i rybolov (576i)
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ohotnikirybolov-ru-031cddc3ad.png",Охотник и рыболов (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ohotnikirybolov-ru-031cddc3ad.png",Ohotnik i rybolov HD (1080p)
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ohotnikirybolov-ru-031cddc3ad.png",Охотник и рыболов (1080p)
 http://stream.mcquack.net/194/index.m3u8
 
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okhotairybalka-ru-4c76461e07.png",Okhota i rybalka (576p)
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okhotairybalka-ru-4c76461e07.png",Охота и рыбалка (576p)
 http://stream.mcquack.net/155/index.m3u8
 
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okhotairybalka-ru-4c76461e07.png",Okhota i rybalka
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okhotairybalka-ru-4c76461e07.png",Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okko-futbol-e75e0b9633.png",Okko Futbol (576p)
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okko-futbol-e75e0b9633.png",Okko Футбол (576p)
 http://178.124.179.122:8080/Setanta1/index.m3u8
 
-#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okko-prajm-sport-c0ce748552.png",Okko Prajm Sport (1080p)
+#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/okko-prajm-sport-c0ce748552.png",Okko Прайм Спорт (1080p)
 http://stream.mcquack.net/493/index.m3u8
 
-#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ostrosyuzhetnoye-ru-ab460b6ca9.png",Ostrosyuzhetnoye HD (1080p)
+#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ostrosyuzhetnoye-ru-ab460b6ca9.png",Остросюжетное (1080p)
 http://stream.mcquack.net/214/index.m3u8
 
-#EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/peretzinternational-ru-2465fb5c13.png",Peretz International (576p)
+#EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/peretzinternational-ru-2465fb5c13.png",Че (576p)
 http://stream.mcquack.net/121/index.m3u8
 
-#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/perviy-otdel-c1372d212e.jpg",Perviy otdel (1080p)
+#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/perviy-otdel-c1372d212e.jpg",Первый отдел (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 
-#EXTINF:-1 tvg-id="Pes.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/pes-db0cfb222d.jpg",Pes (1080p)
+#EXTINF:-1 tvg-id="Pes.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/pes-db0cfb222d.jpg",Пёс (1080p)
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 
-#EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/premialnoe-hd-d0f25de463.png",Premialnoe HD (1080p)
+#EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/premialnoe-hd-d0f25de463.png",Премиальное (1080p)
 http://stream.mcquack.net/421/index.m3u8
 
-#EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/priklyucheniya-hd-5cf88069a0.png",Priklyucheniya HD (1080p)
+#EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/priklyucheniya-hd-5cf88069a0.png",Приключения (1080p)
 http://stream.mcquack.net/198/index.m3u8
 
-#EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/probusiness-ru-b05c2abae3.png",Pro Business (720p)
+#EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/probusiness-ru-b05c2abae3.png",Про Бизнес (720p)
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/prodvizhenie-3f5249ca1a.png",Prodvizhenie (1080p)
+#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/prodvizhenie-3f5249ca1a.png",Продвижение (1080p)
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 
-#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/prodvizhenie-3f5249ca1a.png",Prodvizhenie (576p)
+#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/prodvizhenie-3f5249ca1a.png",Продвижение (576p)
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
-#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/prosveshchenie-fd020de0de.png",Prosveshchenie (576p)
+#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/prosveshchenie-fd020de0de.png",Просвещение (540p) [Geo-blocked] (576p)
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 
-#EXTINF:-1 tvg-id="Radio1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/radio1-ru-07345c6585.png",Radio 1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Radio1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/radio1-ru-07345c6585.png",Радио 1
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 
-#EXTINF:-1 tvg-id="RadioRossii.ru@HD",Radio Rossii (720p)
+#EXTINF:-1 tvg-id="RadioRossii.ru@HD",Радио России (720p)
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 
-#EXTINF:-1 tvg-id="RadostMoya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/radostmoya-ru-44a4920447.png",Radost Moya (576p)
+#EXTINF:-1 tvg-id="RadostMoya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/radostmoya-ru-44a4920447.png",Радость моя (576p)
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru@SD",Retro (576p)
+#EXTINF:-1 tvg-id="Retro.ru@SD",Ретро (576p)
 http://stream.mcquack.net/191/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru@SD",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD",Ретро
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rodnoe-kino-0e537a76b2.png",Rodnoe Kino (576p)
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rodnoe-kino-0e537a76b2.png",Родное Кино (576p)
 http://stream.mcquack.net/242/index.m3u8
 
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rodnoe-kino-0e537a76b2.png",Rodnoe Kino
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rodnoe-kino-0e537a76b2.png",Родное Кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rossiya1vainah-ru-16e265a491.png",Rossiya 1 Vainah (576i)
+#EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rossiya1vainah-ru-16e265a491.png",Россия 1 Вайнах (576i)
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT.ru@SD",RT (720p)
@@ -573,76 +570,76 @@ http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtvi-ru-dd1c5ccfea.png",RTVi (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 
-#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ru-tv-1999bdfeb1.png",RU.TV (1080p)
+#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ru-tv-1999bdfeb1.png",РУ.ТВ (1080p)
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 
-#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ru-tv-1999bdfeb1.png",RU.TV
+#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ru-tv-1999bdfeb1.png",РУ.ТВ
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RUTVKids.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rutvkids-ru-da694ea95f.png",RU.TV Kids (720p)
+#EXTINF:-1 tvg-id="RUTVKids.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rutvkids-ru-da694ea95f.png",РУ.ТВ Кидс (720p)
 https://rutvkids.ru/live/efir/index.m3u8
 
-#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ru-tv-1999bdfeb1.png",RU.TV SD (576p)
+#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ru-tv-1999bdfeb1.png",РУ.ТВ (576p)
 http://stream.mcquack.net/109/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Russia-1
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Россия 1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Russia-1 HD (1080p)
+#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Россия 1 (1080p)
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Russia-1 SD (576p)
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Россия 1 (576p)
 http://109.207.243.18/2/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Russia-24 (720p)
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (720p)
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Russia-24
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RussiaK.ru@SD",Russia-K (576p)
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия К (576p)
 http://stream.mcquack.net/229/index.m3u8
 
-#EXTINF:-1 tvg-id="RussiaK.ru@HD",Russia-K HD (1080p)
+#EXTINF:-1 tvg-id="RussiaK.ru@HD",Россия К (1080p)
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 
 #EXTINF:-1 tvg-id="RussianMusicBox.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russian-musicbox-01dbc55aae.png",Russian MusicBox (576p)
 http://stream.mcquack.net/319/index.m3u8
 
-#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiy-bestseller-ed8e4d58dc.png",Russkiy Bestseller (576p)
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiy-bestseller-ed8e4d58dc.png",Русский Бестселлер (576p)
 http://stream.mcquack.net/208/index.m3u8
 
-#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiy-detektiv-6293b9e1c6.png",Russkiy Detektiv (576p)
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiy-detektiv-6293b9e1c6.png",Русский Детектив (576p)
 http://stream.mcquack.net/204/index.m3u8
 
-#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiyroman-ru-596af4ea21.png",Russkiy roman (576p)
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiyroman-ru-596af4ea21.png",Русский Роман (576p)
 http://stream.mcquack.net/266/index.m3u8
 
-#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiyroman-ru-596af4ea21.png",Russkiy roman (576p)
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russkiyroman-ru-596af4ea21.png",Русский Роман (576p)
 https://vod.tuva.ru/rusroman/index.m3u8
 
-#EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rybolov-007671ca55.png",Rybolov (576p)
+#EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rybolov-007671ca55.png",Рыболов (576p)
 http://stream.mcquack.net/264/index.m3u8
 
-#EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ryzhiy-7768e045b2.png",Ryzhiy (576i)
+#EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ryzhiy-7768e045b2.png",Рыжий (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sankt-peterburg-hd-61cd21102d.png",Sankt-Peterburg HD (720p)
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sankt-peterburg-hd-61cd21102d.png",Санкт-Петербург (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 
-#EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sarafan-1bc2f9ef5c.png",Sarafan (576p)
+#EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sarafan-1bc2f9ef5c.png",Сарафан (576p)
 http://stream.mcquack.net/81/index.m3u8
 
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Shanson TV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Шансон ТВ
 https://streaming.thestream.cyou/live/7009.m3u8
 
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Shanson TV (576p)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Шансон ТВ (576p)
 http://catchup.videoline.ru/shanson/index.m3u8
 
-#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shef-4857851232.jpg",Shef (1080p)
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shef-4857851232.jpg",Шеф (1080p)
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
 
-#EXTINF:-1 tvg-id="Shokiruyushchee.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shokiruyushchee-hd-53dc19d9d1.png",Shokiruyushchee HD (1080p)
+#EXTINF:-1 tvg-id="Shokiruyushchee.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shokiruyushchee-hd-53dc19d9d1.png",Шокирующее (1080p)
 http://stream.mcquack.net/75/index.m3u8
 
 #EXTINF:-1 tvg-id="ShoppingLive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shopping-live-a8474a117e.png",Shopping Live (720p)
@@ -651,52 +648,52 @@ https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShoppingLive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shopping-live-a8474a117e.png",Shopping Live (576p) [Not 24/7]
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/skoraya-pomoshch-dd27590f51.jpg",Skoraya pomoshch (1080p)
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/skoraya-pomoshch-dd27590f51.jpg",Скорая помощь (1080p)
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 
-#EXTINF:-1 tvg-id="SmileTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smiletv-ru-9a3152adf0.png",Smile TV (720p)
+#EXTINF:-1 tvg-id="SmileTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smiletv-ru-9a3152adf0.png",Смайл ТВ (720p)
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-detskoe-d107840e8a.png",Smotrim 100% Detskoe (720p)
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-detskoe-d107840e8a.png",Смотрим 100% Детское (720p)
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-fakty-d990a6628b.png",Smotrim 100% Fakty (720p)
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-fakty-d990a6628b.png",Смотрим 100% Факты (720p)
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-klassika-2c19bf529a.png",Smotrim 100% Klassika (720p)
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-klassika-2c19bf529a.png",Смотрим 100% Классика (720p)
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-lyubov-c1be3f6538.png",Smotrim 100% Lyubov (720p)
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-lyubov-c1be3f6538.png",Смотрим 100% Любовь (720p)
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 
-#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-muzhskoe-e7f26e4b5c.png",Smotrim 100% Muzhskoe (720p)
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-muzhskoe-e7f26e4b5c.png",Смотрим 100% Мужское (720p)
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-prazdnik-85529f5be9.png",Smotrim 100% Prazdnik (720p)
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smotrim-100-prazdnik-85529f5be9.png",Смотрим 100% Праздник (720p)
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sochilive-ru-00c2f8fdaf.png",Sochi Live HD (720p) [Not 24/7]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solnce-ru-707a6d0422.png",Solnce (576p)
+#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solnce-ru-707a6d0422.png",Солнце (576p)
 http://217.114.191.150/Solnce/index.m3u8
 
-#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solnce-ru-707a6d0422.png",Solnce (576p)
+#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solnce-ru-707a6d0422.png",Солнце (576p)
 http://stream.mcquack.net/118/index.m3u8
 
-#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solnce-ru-707a6d0422.png",Solnce (576p)
+#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/solnce-ru-707a6d0422.png",Солнце (576p)
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/songtv-russia-662779e6e9.png",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/soyuzny-d7699bcea3.png",Soyuzny (480p)
+#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/soyuzny-d7699bcea3.png",Союзный (480p)
 http://178.124.179.122:8080/TRO/index.m3u8
 
-#EXTINF:-1 tvg-id="Spas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/spas-04b21edeee.png",Spas (576p)
+#EXTINF:-1 tvg-id="Spas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/spas-04b21edeee.png",Спас (450p) [Geo-blocked] (576p)
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sportivnyy-8630266ff2.png",Sportivnyy (1080p)
+#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sportivnyy-8630266ff2.png",Спортивный (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
 
 #EXTINF:-1 tvg-id="StarCinema.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/star-cinema-db91189253.png",Star Cinema
@@ -708,49 +705,49 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/start-air-07b8ef8802.png",START Air (576p)
 http://stream.mcquack.net/128/index.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",STS (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",СТС (576p)
 http://tshift-1.telecoma.tv/sts/index.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",STS HD (1080p)
+#EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",СТС (1080p)
 http://stream.mcquack.net/138/index.m3u8
 
 #EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-international-b8c0bcdbdb.png",STS International (576p)
 http://178.134.1.158:8081/CTC/index.m3u8
 
-#EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/stskids-ru-fa005c5883.png",STS kids (576p)
+#EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/stskids-ru-fa005c5883.png",СТС kids (576p)
 http://stream.mcquack.net/197/index.m3u8
 
-#EXTINF:-1 tvg-id="STSLove.ru@SD",STS Love (576p)
+#EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love (576p)
 http://stream.mcquack.net/183/index.m3u8
 
-#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/subbota-9b2da97263.png",Subbota! (1080p)
+#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/subbota-9b2da97263.png",Суббота! (1080p)
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 
-#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/subbota-9b2da97263.png",Subbota! (576p)
+#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/subbota-9b2da97263.png",Суббота! (576p)
 http://217.114.191.150/Subbota/index.m3u8
 
-#EXTINF:-1 tvg-id="Subbota.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/subbota-9b2da97263.png",Subbota! HD (1080p)
+#EXTINF:-1 tvg-id="Subbota.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/subbota-9b2da97263.png",Суббота! (1080p)
 http://stream.mcquack.net/269/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperGeroi.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/supergeroi-ru-c02139ada7.png",SuperGeroi (576p)
+#EXTINF:-1 tvg-id="SuperGeroi.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/supergeroi-ru-c02139ada7.png",СуперГерои (576p)
 http://109.94.1.3:8080/132/index.m3u8
 
 #EXTINF:-1 tvg-id="Svoboda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/svoboda-a0b7a386e0.svg",Svoboda
 http://88.212.15.50/live/svoboda/index.m3u8
 
-#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",T24 (576p)
+#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",Т24 (576p)
 http://178.134.1.158:8081/t24/index.m3u8
 
-#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",T24 (576p)
+#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",Т24 (576p)
 http://stream.mcquack.net/209/index.m3u8
 
-#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",T24
+#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",Т24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Телекафе
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TeleDom.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/teledom-b0076592c7.png",TeleDom
+#EXTINF:-1 tvg-id="TeleDom.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/teledom-b0076592c7.png",ТелеДом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
 #EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tiji-2729c75e3f.png",TiJi (576p)
@@ -759,22 +756,22 @@ http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tiji-2729c75e3f.png",TiJi (576p)
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",TNT SD (576p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",ТНТ (576p)
 http://stream.mcquack.net/135/index.m3u8
 
-#EXTINF:-1 tvg-id="TNVPlanet.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnvplanet-ru-9b4a9252aa.png",TNV-Planet
+#EXTINF:-1 tvg-id="TNVPlanet.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnvplanet-ru-9b4a9252aa.png",ТНВ-Планета (Казань)
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TNVTatarstan.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnv-tatarstan-dd8333129a.png",TNV-Tatarstan (720p)
+#EXTINF:-1 tvg-id="TNVTatarstan.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnv-tatarstan-dd8333129a.png",ТНВ-Татарстан (720p)
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 
 #EXTINF:-1 tvg-id="TochkaRF.ru@SD",Tochka RF (1080p)
 http://stream.mcquack.net/161/index.m3u8
 
-#EXTINF:-1 tvg-id="Tooku.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tooku-c2f3d19469.png",Tooku (1080p)
+#EXTINF:-1 tvg-id="Tooku.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tooku-c2f3d19469.png",Тооку (1080p)
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TsargradTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tsargrad-tv-9ad50f4774.png",Tsargrad TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TsargradTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tsargrad-tv-9ad50f4774.png",Царьград ТВ
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 
 #EXTINF:-1 tvg-id="TV21International.ru@SD",TV 21 International (576p)
@@ -786,22 +783,22 @@ http://213.91.179.28:8000/play/a0bx
 #EXTINF:-1 tvg-id="TVPRO.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-pro-68357c3952.png",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
-#EXTINF:-1 tvg-id="TV3.ru@Belarus" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",TV-3 (576p)
+#EXTINF:-1 tvg-id="TV3.ru@Belarus" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",ТВ3 (576p)
 http://178.124.179.122:8080/TB-3/index.m3u8
 
-#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",U (720p)
+#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",Ю Ⓢ (720p)
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 
-#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",U (576p)
+#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",Ю Ⓢ (576p)
 http://178.134.1.158:8081/U/index.m3u8
 
-#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",U (576p)
+#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",Ю Ⓢ (576p)
 http://stream.mcquack.net/230/index.m3u8
 
 #EXTINF:-1 tvg-id="UDAR.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/udar-ru-1b2ce72d4f.png",UDAR (1080p)
 http://5.188.159.128:8070/udar/index.m3u8
 
-#EXTINF:-1 tvg-id="Detskiy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/detskiy-ru-b708dbe4f5.png",Detskiy (576p)
+#EXTINF:-1 tvg-id="Detskiy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/detskiy-ru-b708dbe4f5.png",Детский (576p)
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="UniverTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/univer-tv-11959e680b.png",Univer TV (1080p) [Not 24/7]
@@ -810,16 +807,16 @@ https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/univer-tv-11959e680b.png",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Usadba.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/usadba-9e07bc8892.png",Usadba (576p)
+#EXTINF:-1 tvg-id="Usadba.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/usadba-9e07bc8892.png",Усадьба (576p)
 http://stream.mcquack.net/211/index.m3u8
 
-#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-gostyakh-u-skazki-922fa3bd80.png",V gostyakh u skazki (576p)
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-gostyakh-u-skazki-922fa3bd80.png",В гостях у сказки (576p)
 http://stream.mcquack.net/93/index.m3u8
 
-#EXTINF:-1 tvg-id="Vmirezhivotnykh.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-mire-zhivotnykh-c76222d6e5.png",V mire zhivotnykh (1080p)
+#EXTINF:-1 tvg-id="Vmirezhivotnykh.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-mire-zhivotnykh-c76222d6e5.png",В мире животных (1080p)
 http://stream.mcquack.net/241/index.m3u8
 
-#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vesti-fm-06ea169770.png",Vesti FM (720p)
+#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vesti-fm-06ea169770.png",Вести ФМ (720p)
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-explore-18cdab51df.png",viju Explore (576p)
@@ -843,10 +840,10 @@ http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-tv1000-action-2e868e025d.png",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 russkoe
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 Русское
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 russkoe
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 Русское
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-comedy-hd-4ca32a6f88.png",viju+ Comedy HD (1080p)
@@ -870,46 +867,46 @@ http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-sport-00eabb2525.png",viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="VitrinaTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vitrina-tv-547b14d0e4.png",Vitrina TV (720p)
+#EXTINF:-1 tvg-id="VitrinaTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vitrina-tv-547b14d0e4.png",Витрина ТВ (720p)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vkus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vkus-1812d5c936.png",Vkus (576p)
+#EXTINF:-1 tvg-id="Vkus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vkus-1812d5c936.png",Вкус (576p)
 http://178.134.1.158:8081/vkus/index.m3u8
 
-#EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vmeste-rf-38d447b4a6.png",Vmeste-RF (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vmeste-rf-38d447b4a6.png",Вместе РФ
 https://streaming.thestream.cyou/live/7006.m3u8
 
-#EXTINF:-1 tvg-id="VoprosyiOtvety.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/voprosy-i-otvety-7cf3958ac9.png",Voprosy i Otvety (576p)
+#EXTINF:-1 tvg-id="VoprosyiOtvety.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/voprosy-i-otvety-7cf3958ac9.png",Вопросы и ответы (576p)
 http://stream.mcquack.net/76/index.m3u8
 
-#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vremya-ru-71bb690eff.png",Vremya (576p)
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vremya-ru-71bb690eff.png",Время (576p)
 http://stream.mcquack.net/237/index.m3u8
 
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zagorodnaya-zhizn-696f27b8b1.png",Zagorodnaya Zhizn (576p)
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zagorodnaya-zhizn-696f27b8b1.png",Загородная жизнь (576p)
 http://185.57.68.33/40/index.m3u8
 
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zagorodnaya-zhizn-696f27b8b1.png",Zagorodnaya Zhizn
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zagorodnaya-zhizn-696f27b8b1.png",Загородная жизнь
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Zhara.ru@SD",Zhara (576p)
+#EXTINF:-1 tvg-id="Zhara.ru@SD",Жара TV (576p)
 http://stream.mcquack.net/386/index.m3u8
 
-#EXTINF:-1 tvg-id="Zhivayapriroda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zhivaya-priroda-3701d8d339.png",Zhivaya priroda (1080p)
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zhivaya-priroda-3701d8d339.png",Живая природа (1080p)
 http://stream.mcquack.net/83/index.m3u8
 
-#EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zhivaya-priroda-3701d8d339.png",Zhivaya priroda HD (1080p)
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zhivaya-priroda-3701d8d339.png",Живая природа (1080p)
 http://stream.mcquack.net/225/index.m3u8
 
-#EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zoopark-ru-625bedb0ad.svg",Zoopark (576i)
+#EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zoopark-ru-625bedb0ad.svg",Zooпарк (576i)
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Zvezda (1080p)
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Звезда (1080p)
 http://51.158.144.33:2021/zvezda/index.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Zvezda
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Звезда
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Zvezda HD (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Zvezda.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AISTTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/aist-tv-df97c9d943.png",Аист ТВ (1080p)
@@ -1119,28 +1116,28 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/yuvelirochka-ru-826414ed29.png",Ювелирочка ТВ (576p)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD",2x2 (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2 (450p) [Geo-blocked] (576p)
 http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
-#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/duma-tv-27eff51c9c.png",Duma TV (720p)
+#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/duma-tv-27eff51c9c.png",Дума ТВ (1080p) [Not 24/7] (720p)
 http://185.23.80.23:8080/DumaTV/index.m3u8
 
-#EXTINF:-1 tvg-id="UnknownRussia.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/unknown-russia-hd-83bee11698.png",Unknown Russia HD (1080p)
+#EXTINF:-1 tvg-id="UnknownRussia.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/unknown-russia-hd-83bee11698.png",Неизвестная Россия (1080p)
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 
-#EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nano-5192e8cf05.png",Nano HD (1080p)
+#EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nano-5192e8cf05.png",Нано ТВ HD (1080p)
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-brics-russian-27f2afd701.png",TV BRICS Russian (1080p)
 http://185.23.80.23:8080/TVBRICS/index.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD",2x2 (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2 (450p) [Geo-blocked] (576p)
 http://185.23.80.23:8080/2x2/index.m3u8
 
-#EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/art-ru-0775223723.webp",ART (576p)
+#EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/art-ru-0775223723.webp",АРТ (576p)
 http://185.23.80.23:8080/ART/index.m3u8
 
-#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rentv-ru-029996b66d.png",REN TV (576p)
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rentv-ru-029996b66d.png",Рен ТВ Ⓢ (576p)
 http://185.23.80.23:8080/REN/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bridge-2ea2dc8bfd.png",BRIDGE (576p)
@@ -1149,10 +1146,10 @@ http://178.134.1.158:8081/BRIDGE/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bridge-rock-8f4ccd8291.png",BRIDGE Rock (576p)
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 
-#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ren-tv-international-878dd2b7f1.png",REN TV International (576p)
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ren-tv-international-878dd2b7f1.png",РЕН ТВ International (576p)
 http://178.134.1.158:8081/RENTV/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvhit-ru-c8a3eeb957.png",NTV-Hit (576p)
+#EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvhit-ru-c8a3eeb957.png",НТВ Хит (576p)
 http://178.134.1.158:8081/ntvhit/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTime.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/baby-time-a3671b70e2.png",Baby Time (576p)
@@ -1161,55 +1158,55 @@ http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/red-c338e59e82.png",.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
 
-#EXTINF:-1 tvg-id="TV21.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-21-d904aac128.png",TV 21 (576p)
+#EXTINF:-1 tvg-id="TV21.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-21-d904aac128.png",ТВ 21 (576p)
 http://178.134.1.158:8081/TVXXI/index.m3u8
 
-#EXTINF:-1 tvg-id="Tonus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tonus-7e4f601595.png",Tonus (576p)
+#EXTINF:-1 tvg-id="Tonus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tonus-7e4f601595.png",Тонус (576p)
 http://194.143.148.28:8080/Mir24/index.m3u8
 
-#EXTINF:-1 tvg-id="AISTTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/aist-tv-df97c9d943.png",AIST TV (576p)
+#EXTINF:-1 tvg-id="AISTTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/aist-tv-df97c9d943.png",Аист ТВ (576p)
 http://194.143.148.28:8080/Aist/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bridge-2ea2dc8bfd.png",BRIDGE (576p)
 http://194.143.148.28:8080/RT_DOC/index.m3u8
 
-#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rentv-ru-029996b66d.png",REN TV (576p)
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rentv-ru-029996b66d.png",Рен ТВ Ⓢ (576p)
 http://flussonic.linkintel.ru/ren_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/friday-86fa92a2d0.png",Friday! (576p)
+#EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/friday-86fa92a2d0.png",Пятница! (576p)
 http://flussonic.linkintel.ru/Pyatnica/index.m3u8
 
-#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",TV-3 (576p)
+#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",ТВ3 (576p)
 http://flussonic.linkintel.ru/tv-3/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",NTV HD (1080p)
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",НТВ (1080p)
 http://flussonic.linkintel.ru/ntv/index.m3u8
 
-#EXTINF:-1 tvg-id="Mult.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Mult (576p)
+#EXTINF:-1 tvg-id="Mult.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Мульт (576p)
 http://flussonic.linkintel.ru/Mult/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",TNT (576p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",ТНТ (576p)
 http://flussonic.linkintel.ru/tnt/index.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",STS (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",СТС (576p)
 http://flussonic.linkintel.ru/sts/index.m3u8
 
-#EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/che-0d4dab5dd0.png",Che! (576p)
+#EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/che-0d4dab5dd0.png",Че! (576p)
 http://flussonic.linkintel.ru/che/index.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Carousel (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Карусель (576p)
 http://flussonic.linkintel.ru/Karusel/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD",TV Centr (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD",ТВ Центр (576p)
 http://flussonic.linkintel.ru/tvc/index.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Zvezda (576p)
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Звезда (576p)
 http://flussonic.linkintel.ru/zvezda/index.m3u8
 
-#EXTINF:-1 tvg-id="OTR.ru@SD",OTR (576p)
+#EXTINF:-1 tvg-id="OTR.ru@SD",ОТР Ⓢ (576p)
 http://flussonic.linkintel.ru/otr/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT4.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt4-c0322080d4.png",TNT4 (576p)
+#EXTINF:-1 tvg-id="TNT4.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt4-c0322080d4.png",ТНТ4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
 
 #EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/amedia-hit-92cfee6167.png",Amedia Hit (576p)
@@ -1218,28 +1215,28 @@ http://flussonic.linkintel.ru/amedia-hit/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/cinema-ru-8a6d506606.png",Cinema (576p)
 http://flussonic.linkintel.ru/cinema/index.m3u8
 
-#EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kino-tv-hd-e3bf50756c.png",Kino TV (576p)
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kino-tv-hd-e3bf50756c.png",КИНОТВ (576p)
 http://flussonic.linkintel.ru/kino-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Match! Ultra (576p)
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Матч! Ультра (576p)
 http://flussonic.linkintel.ru/match/index.m3u8
 
-#EXTINF:-1 tvg-id="Mama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mama-2eaa768a53.png",Mama (576p)
+#EXTINF:-1 tvg-id="Mama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mama-2eaa768a53.png",Мама (576p)
 http://flussonic.linkintel.ru/mama/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzyka-pervogo-1d34a248c6.png",Muzyka Pervogo (576p)
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzyka-pervogo-1d34a248c6.png",Музыка Первого (576p)
 http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV3.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",TV-3 HD (1080p)
+#EXTINF:-1 tvg-id="TV3.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",ТВ3 (1080p)
 http://stream.mcquack.net/136/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT4.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt4-c0322080d4.png",TNT4 (576p)
+#EXTINF:-1 tvg-id="TNT4.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt4-c0322080d4.png",ТНТ4 (576p)
 http://stream.mcquack.net/106/index.m3u8
 
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Telecafe (576p)
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Телекафе (576p)
 http://stream.mcquack.net/314/index.m3u8
 
-#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/doctor-ru-1193115bf4.png",Doctor (576p)
+#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/doctor-ru-1193115bf4.png",Доктор (576p)
 http://stream.mcquack.net/80/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/travel-adventure-hd-ba5f0a826e.png",Travel+Adventure HD (1080p)
@@ -1254,73 +1251,73 @@ http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bridge-hits-361b0074ba.png",BRIDGE Hits (576p)
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 
-#EXTINF:-1 tvg-id="FONMusic.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fonmusic-ru-aee4541016.png",FON Music (576p)
+#EXTINF:-1 tvg-id="FONMusic.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fonmusic-ru-aee4541016.png",ТНТ Music (576p)
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/1hd-music-television-75a5aa1698.png",1HD Music Television (1080p)
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/1hd-music-television-75a5aa1698.png",Музыка Первого (1080p)
 https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Mult.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Mult (576p)
+#EXTINF:-1 tvg-id="Mult.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Мульт (576p)
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Mama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mama-2eaa768a53.png",Mama (576p)
+#EXTINF:-1 tvg-id="Mama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mama-2eaa768a53.png",Мама (576p)
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/365-days-tv-e1ac04caf3.png",365 days TV (576p)
+#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/365-days-tv-e1ac04caf3.png",365 Дней (576p)
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Arsenal.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/arsenal-b2fb786b66.png",Arsenal (576p)
+#EXTINF:-1 tvg-id="Arsenal.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/arsenal-b2fb786b66.png",Арсенал (576p)
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="KapitanFantastika.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kapitan-fantastika-0eaeefa2d0.png",Kapitan Fantastika (576p)
+#EXTINF:-1 tvg-id="KapitanFantastika.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kapitan-fantastika-0eaeefa2d0.png",Капитан Фантастика (576p)
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-gostyakh-u-skazki-922fa3bd80.png",V gostyakh u skazki (1080p)
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-gostyakh-u-skazki-922fa3bd80.png",В гостях у сказки (1080p)
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SmileTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smiletv-ru-9a3152adf0.png",Smile TV (720p)
+#EXTINF:-1 tvg-id="SmileTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/smiletv-ru-9a3152adf0.png",Смайл ТВ (720p)
 https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kuhnya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuhnya-ru-3788cadb48.png",Kuhnya (576p)
+#EXTINF:-1 tvg-id="Kuhnya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuhnya-ru-3788cadb48.png",Кухня (576p)
 https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD",TV Centr (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD",ТВ Центр (576p)
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Tochkaotryva.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tochkaotryva-ru-5c41b44e2c.svg",Tochka otryva (576p)
+#EXTINF:-1 tvg-id="Tochkaotryva.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tochkaotryva-ru-5c41b44e2c.svg",Точка отрыва (576p)
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Usadba.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/usadba-9e07bc8892.png",Usadba (576p)
+#EXTINF:-1 tvg-id="Usadba.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/usadba-9e07bc8892.png",Усадьба (576p)
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zdorovoe-tv-52c56ce46e.png",Zdorovoe TV (576p)
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zdorovoe-tv-52c56ce46e.png",Здоровое ТВ (576p)
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniezhivotnye-ru-c2aa935bbc.svg",Domashnie Zhivotnye (576p)
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniezhivotnye-ru-c2aa935bbc.svg",Домашние животные (576p)
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dikij.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dikij-ru-0c3d5258b7.png",Dikij (576p)
+#EXTINF:-1 tvg-id="Dikij.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dikij-ru-0c3d5258b7.png",Дикий (576p)
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/priklyucheniya-hd-5cf88069a0.png",Priklyucheniya (576p)
+#EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/priklyucheniya-hd-5cf88069a0.png",Приключения (576p)
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zhivaya-planeta-c059ef6d90.png",Zhivaya Planeta (576p)
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zhivaya-planeta-c059ef6d90.png",Живая Планета (576p)
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RussiaK.ru@SD",Russia-K (576p)
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия К (576p)
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TNT4International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt4-c0322080d4.png",TNT4 International (576p)
+#EXTINF:-1 tvg-id="TNT4International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt4-c0322080d4.png",ТНТ4 International (576p)
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/365-days-tv-e1ac04caf3.png",365 days TV (576p)
+#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/365-days-tv-e1ac04caf3.png",365 Дней (576p)
 https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",T24 (576p)
+#EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/t24-369117e2ba.png",Т24 (576p)
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moyaplaneta-ru-417208820c.png",Moya Planeta (576p)
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moyaplaneta-ru-417208820c.png",Моя Планета (576p)
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-explore-18cdab51df.png",viju Explore (576p)
@@ -1332,64 +1329,64 @@ https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijunature-ru-f79c2a8178.png",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",National Geographic (576p)
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD",National Geographic Россия (576p)
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD",National Geographic Wild (576p)
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD",National Geographic Wild Россия (576p)
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/istoriya-ru-b048b9bc14.png",Istoriya (576p)
+#EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/istoriya-ru-b048b9bc14.png",История (576p)
 https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="BigPlanet.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bigplanet-ru-73395c9ac5.png",Big Planet (576p)
 https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/avto24-7bc8ce6cf7.png",Avto24 (576p)
+#EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/avto24-7bc8ce6cf7.png",Авто24 (576p)
 https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="India.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/india-ru-b3bacd147e.png",India (576p)
+#EXTINF:-1 tvg-id="India.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/india-ru-b3bacd147e.png",Индия (576p)
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Domkino.ru@International",Dom kino International (576p)
+#EXTINF:-1 tvg-id="Domkino.ru@International",Дом Кино (576p)
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dom-kino-premium-hd-7cbf01d8f9.png",Dom kino Premium HD (1080p)
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dom-kino-premium-hd-7cbf01d8f9.png",Дом Кино Премиум HD (1080p)
 https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniy-ru-1c0fcf32f5.jpg",Domashniy (576p)
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniy-ru-1c0fcf32f5.jpg",Домашний (576p)
 https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Evrokino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/evrokino-hd-355b8c2c6d.png",Evrokino (576p)
+#EXTINF:-1 tvg-id="Evrokino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/evrokino-hd-355b8c2c6d.png",Еврокино (576p)
 https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinohit-e0f602b2cd.png",KinoHit (576p)
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinohit-e0f602b2cd.png",Кинохит (576p)
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinouzhas-80952f01d8.png",Kinouzhas (576p)
+#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinouzhas-80952f01d8.png",Киноужас (576p)
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Indiyskoye Kino (576p)
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/indiyskoye-kino-fb38e5c04b.png",Индийское кино (576p)
 https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinokomedija-ffe0d10b4e.png",Kinokomedija (576p)
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinokomedija-ffe0d10b4e.png",Кинокомедия (576p)
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinomix-edc9c85016.png",Kinomix (576p)
+#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinomix-edc9c85016.png",Киномикс (576p)
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinopremyera.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopremyera-1103df8d00.png",Kinopremyera HD (1080p)
+#EXTINF:-1 tvg-id="Kinopremyera.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinopremyera-1103df8d00.png",Кинопремьера (1080p)
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosemja-ea77dba428.png",Kinosemja (576p)
+#EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosemja-ea77dba428.png",Киносемья (576p)
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinoseriya-ru-38dd9a4ce7.png",Kinoseriya (576p)
+#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinoseriya-ru-38dd9a4ce7.png",Киносерия (576p)
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Kinosvidanie (576p)
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kinosvidanie-f2b5a23d96.png",Киносвидание (576p)
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzhskoe-kino-9cd4d1dad6.png",Muzhskoe kino (576p)
+#EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muzhskoe-kino-9cd4d1dad6.png",Мужское кино (576p)
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="vijuTV1000.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-tv1000-093e706372.png",viju TV1000 (576p)
@@ -1398,103 +1395,103 @@ https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-tv1000-action-2e868e025d.png",viju TV1000 action (576p)
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 russkoe (576p)
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 Русское (576p)
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Moskva 24 (576p)
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/moskva24-ru-4476d6da98.png",Москва 24 (576p)
 https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kvn-tv-e3fdd9d27b.png",KVN TV (576p)
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kvn-tv-e3fdd9d27b.png",КВН ТВ (576p)
 https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",Mir (576p)
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",МИР (576p)
 https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mosfilmgoldcollection-ru-2b5a095dcb.png",Mosfilm Gold Collection (576p)
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mosfilmgoldcollection-ru-2b5a095dcb.png",Мосфильм Золотая коллекция (576p)
 https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD",TV Centr (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD",ТВ Центр (576p)
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",STS (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",СТС (576p)
 https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Telecafe (576p)
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Телекафе (576p)
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Tochkaotryva.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tochkaotryva-ru-5c41b44e2c.svg",Tochka otryva (576p)
+#EXTINF:-1 tvg-id="Tochkaotryva.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tochkaotryva-ru-5c41b44e2c.svg",Точка отрыва (576p)
 https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dorama-22fd94aa58.png",Dorama (576p)
+#EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dorama-22fd94aa58.png",Дорама (576p)
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="STARTWorld.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/startworld-ru-a7b52b8937.png",START World (576p)
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="TV21.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-21-d904aac128.png",TV 21 (576p)
+#EXTINF:-1 tvg-id="TV21.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-21-d904aac128.png",ТВ 21 (576p)
 https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",U (576p)
+#EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/u-f1f4bc6287.png",Ю Ⓢ (576p)
 https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vremya-ru-71bb690eff.png",Vremya (576p)
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vremya-ru-71bb690eff.png",Время (576p)
 https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Zhara.ru@SD",Zhara (576p)
+#EXTINF:-1 tvg-id="Zhara.ru@SD",Жара TV (576p)
 https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zoopark-ru-625bedb0ad.svg",Zoopark (576p)
+#EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zoopark-ru-625bedb0ad.svg",Zooпарк (576p)
 https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Zvezda (576p)
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Звезда (576p)
 https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bridge-classic-45e060446f.png",BRIDGE Classic (576p)
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",Muz-TV (576p)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",МузТВ (576p)
 https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Shanson TV (576p)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Шансон ТВ (576p)
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/europa-plus-tv-belarus-190dfa555b.png",Europa Plus TV (576p)
 https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-gostyakh-u-skazki-922fa3bd80.png",V gostyakh u skazki (576p)
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/v-gostyakh-u-skazki-922fa3bd80.png",В гостях у сказки (576p)
 https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="BabyTime.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/baby-time-a3671b70e2.png",Baby Time (576p)
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="LapkiLive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/lapkilive-ru-36bdc19af4.png",Lapki Live (576p)
+#EXTINF:-1 tvg-id="LapkiLive.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/lapkilive-ru-36bdc19af4.png",Лапки Live (576p)
 https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/da-vinci-cac836f012.png",Da Vinci (576p)
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carouselinternational-ru-dc738a11ba.png",Carousel International (576p)
+#EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carouselinternational-ru-dc738a11ba.png",Карусель International (576p)
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bober-ru-9bee4cba45.png",Bober (576p)
+#EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bober-ru-9bee4cba45.png",Бобёр (576p)
 https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Mult.ru@International" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Mult International (576p)
+#EXTINF:-1 tvg-id="Mult.ru@International" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mult-ru-26295f1997.png",Мульт (576p)
 https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/multilandia-ru-3e2d909ba6.png",Multilandia (576p)
+#EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/multilandia-ru-3e2d909ba6.png",Мультиландия (576p)
 https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khlprime-ru-c5c0185d98.png",KHL Prime (1080p)
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khl-95e1e1c0ba.png",KHL (576p)
+#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khl-95e1e1c0ba.png",КХЛ (576p)
 https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Match! Ultra (576p)
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Матч! Ультра (576p)
 https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-planeta-837a9e6bc7.png",Match! Planeta (576p)
+#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-planeta-837a9e6bc7.png",Матч! Планета Ⓢ (576p)
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-sport-00eabb2525.png",viju+ Sport (576p)
@@ -1506,43 +1503,43 @@ https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD",Extreme Sports Channel (576p)
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5international-ru-74f516d826.png",Channel 5 International (576p)
+#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel5international-ru-74f516d826.png",Пятый International (576p)
 https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="TNVPlanet.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnvplanet-ru-9b4a9252aa.png",TNV-Planet (576p)
+#EXTINF:-1 tvg-id="TNVPlanet.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnvplanet-ru-9b4a9252aa.png",ТНВ-Планета (Казань) (576p)
 https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Russia-1 HD (1080p)
+#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Россия 1 (1080p)
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@HD",Russia-24 HD (1080p)
+#EXTINF:-1 tvg-id="Russia24.ru@HD",Россия 24 (1080p)
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Match! Ultra (576p)
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Матч! Ультра (576p)
 http://45.132.87.69:8080/match/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Match! Ultra (576p)
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Матч! Ультра (576p)
 http://tv.tuva.ru/machtv/index.m3u8
 
-#EXTINF:-1 tvg-id="FashionTV.ru@SD",FashionTV (1080p)
+#EXTINF:-1 tvg-id="FashionTV.ru@SD",FashionTV Россия (1080p)
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RussiaK.ru@HD",Russia-K HD (1080p)
+#EXTINF:-1 tvg-id="RussiaK.ru@HD",Россия К (1080p)
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-centr-international-3d71911b9e.png",TV Centr International (576p)
+#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-centr-international-3d71911b9e.png",ТВ Центр International (576p)
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Channel One CIS (576p)
+#EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Первый СНГ (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="FridayInternational.ru@Kazakhstan" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fridayinternational-ru-d5ac824023.png",Friday! International Kazakhstan (576p)
+#EXTINF:-1 tvg-id="FridayInternational.ru@Kazakhstan" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/fridayinternational-ru-d5ac824023.png",Пятница! International (576p)
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniezhivotnye-ru-c2aa935bbc.svg",Domashnie Zhivotnye (576p)
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniezhivotnye-ru-c2aa935bbc.svg",Домашние животные (576p)
 https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",TV-3 (576p)
+#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",ТВ3 (576p)
 http://176.118.197.101/TB3/index.m3u8
 
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bollywood-ru-a82905e99c.png",Bollywood HD (576p)
@@ -1551,169 +1548,169 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/start-air-07b8ef8802.png",START Air (1080p)
 http://176.118.197.101/START_AIR/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",TNT (576p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",ТНТ (576p)
 http://176.118.197.101/THT/index.m3u8
 
-#EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/che-0d4dab5dd0.png",Che! (576p)
+#EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/che-0d4dab5dd0.png",Че! (576p)
 http://176.118.197.101/Che/index.m3u8
 
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/1hd-music-television-75a5aa1698.png",1HD Music Television (1080p)
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/1hd-music-television-75a5aa1698.png",Музыка Первого (1080p)
 http://176.118.197.101/1HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/komedia-a6759225a7.png",Komedia (576p)
+#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/komedia-a6759225a7.png",Комедия (576p)
 http://176.118.197.101/Komediya/index.m3u8
 
-#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khl-95e1e1c0ba.png",KHL (576p)
+#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/khl-95e1e1c0ba.png",КХЛ (576p)
 http://176.118.197.101/KHL/index.m3u8
 
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rbktv-ru-ed969f474e.png",RBK-TV (576p)
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rbktv-ru-ed969f474e.png",РБК (576p)
 http://176.118.197.101/RBK/index.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",STS (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",СТС (576p)
 http://176.118.197.101/CTC/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",NTV (576p)
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",НТВ (576p)
 http://176.118.197.101/NTV/index.m3u8
 
-#EXTINF:-1 tvg-id="2x2.ru@SD",2x2 (576p)
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2 (450p) [Geo-blocked] (576p)
 http://176.118.197.101/2x2/index.m3u8
 
-#EXTINF:-1 tvg-id="Evrokino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/evrokino-hd-355b8c2c6d.png",Evrokino (576p)
+#EXTINF:-1 tvg-id="Evrokino.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/evrokino-hd-355b8c2c6d.png",Еврокино (576p)
 http://176.118.197.101/Evrokino/index.m3u8
 
-#EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-seriala-0aa20cd010.png",Mir Seriala (576p)
+#EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-seriala-0aa20cd010.png",Мир Сериала (576p)
 http://176.118.197.101/MirSeriala/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Russia-24 (576p)
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (576p)
 http://176.118.197.101/Rossiya24/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Russia-1 HD (1080p)
+#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Россия 1 (1080p)
 http://176.118.197.101/RossiyaHD/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro.ru@SD",Retro (576p)
+#EXTINF:-1 tvg-id="Retro.ru@SD",Ретро (576p)
 http://176.118.197.101/Retro/index.m3u8
 
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nostalgia-ru-9cc45e60c4.png",Nostalgia (576p)
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nostalgia-ru-9cc45e60c4.png",Ностальгия (576p)
 http://176.118.197.101/Nostalgiya/index.m3u8
 
-#EXTINF:-1 tvg-id="IllusionPlus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/illusion-c31f31c696.png",Illusion+ (576p)
+#EXTINF:-1 tvg-id="IllusionPlus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/illusion-c31f31c696.png",Иллюзион+ (576p)
 http://176.118.197.101/Illuzion+/index.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Carousel (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Карусель (576p)
 http://88.212.15.50/live/test_karusel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vremya-ru-71bb690eff.png",Vremya (576p)
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vremya-ru-71bb690eff.png",Время (576p)
 http://88.212.15.50/live/test_vremya/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Domkino.ru@SD",Dom kino (576p)
+#EXTINF:-1 tvg-id="Domkino.ru@SD",Дом Кино (576p)
 http://88.212.15.50/live/test_dom_kino/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dom-kino-premium-hd-7cbf01d8f9.png",Dom kino Premium (576p)
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/dom-kino-premium-hd-7cbf01d8f9.png",Дом Кино Премиум HD (576p)
 http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Telecafe (576p)
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/telecafe-ru-5c7c11b2b5.png",Телекафе (576p)
 http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bober-ru-9bee4cba45.png",Bober (576p)
+#EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bober-ru-9bee4cba45.png",Бобёр (576p)
 http://88.212.15.50/live/test_bober/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/poehali-ru-82ee187c07.png",Poehali! (576p)
+#EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/poehali-ru-82ee187c07.png",Поехали! (576p)
 http://88.212.15.50/live/test_poehali/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Russia-24
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
 
-#EXTINF:-1 tvg-id="NovorossiyaTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/novorossiya-tv-3c1fe382ff.png",Novorossiya TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/novorossiya-tv-3c1fe382ff.png",Новороссия ТВ
 http://31.131.139.253:9002/novoros/index.m3u8
 
-#EXTINF:-1 tvg-id="OplotTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/oplottv-ru-5fc44de235.jpg",Oplot TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OplotTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/oplottv-ru-5fc44de235.jpg",Оплот ТВ
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="6TVGorlovka.ru@SD",6 TV Gorlovka (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="6TVGorlovka.ru@SD",6 ТВ Горловка
 http://91.214.48.158:4022/udp/224.2.2.4:10000
 
 #EXTINF:-1 tvg-id="YaltaTV.ru@SD",Yalta TV (480p) [Geo-blocked]
 http://195.26.83.96:7029/play/a006
 
-#EXTINF:-1 tvg-id="Channel8International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8international-ru-0a54b7ce5b.png",Channel 8 International (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel8International.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/channel8international-ru-0a54b7ce5b.png",8 канал International
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/360-5ae2b822cd.png",360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru@Europa" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Channel One Europa (480p)
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europa" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Первый канал (480p)
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1 tvg-id="Kuban24.ru@MaikopskoyeTelevidenie" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuban24-ru-d69d122a14.png",Kuban 24 (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Kuban24.ru@MaikopskoyeTelevidenie" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/kuban24-ru-d69d122a14.png",Кубань 24 Ⓞ
 http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 
-#EXTINF:-1 tvg-id="OplotTV.ru@Khartsyzsk" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/oplottv-ru-5fc44de235.jpg",Oplot TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OplotTV.ru@Khartsyzsk" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/oplottv-ru-5fc44de235.jpg",Оплот ТВ
 http://31.131.141.195:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD",RT en Espanol (1080p)
 http://168.196.127.137:6001/play/a0a9/index.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Channel One (576p)
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/первый-канал-европа-f795a400c3.png",Первый канал (576p)
 http://31.148.5.241/kanal_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Russia-1 (576p)
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/russia1-ru-c2620ff590.png",Россия 1 (576p)
 http://31.148.5.241/kanal_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Match! Ultra (1080p)
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-ultra-de389f3e31.jpg",Матч! Ультра (1080p)
 http://31.148.5.241/kanal_3/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",NTV (576p)
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png",НТВ (576p)
 http://31.148.5.241/kanal_4/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel5.ru@SD",Channel 5 (576p)
+#EXTINF:-1 tvg-id="Channel5.ru@SD",5 Канал (576p)
 http://31.148.5.241/kanal_5/index.m3u8
 
-#EXTINF:-1 tvg-id="RussiaK.ru@SD",Russia-K (576p)
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия К (576p)
 http://31.148.5.241/kanal_6/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Russia-24 (576p)
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (576p)
 http://31.148.5.241/kanal_7/index.m3u8
 
-#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Carousel (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/carousel-ru-cdc43b03cc.png",Карусель (576p)
 http://31.148.5.241/kanal_8/index.m3u8
 
-#EXTINF:-1 tvg-id="OTR.ru@SD",OTR (576p)
+#EXTINF:-1 tvg-id="OTR.ru@SD",ОТР Ⓢ (576p)
 http://31.148.5.241/kanal_9/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCentr.ru@SD",TV Centr (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD",ТВ Центр (576p)
 http://31.148.5.241/kanal_10/index.m3u8
 
-#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rentv-ru-029996b66d.png",REN TV (576p)
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rentv-ru-029996b66d.png",Рен ТВ Ⓢ (576p)
 http://31.148.5.241/kanal_11/index.m3u8
 
-#EXTINF:-1 tvg-id="Spas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/spas-04b21edeee.png",Spas (576p)
+#EXTINF:-1 tvg-id="Spas.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/spas-04b21edeee.png",Спас (450p) [Geo-blocked] (576p)
 http://31.148.5.241/kanal_12/index.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",STS (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png",СТС (576p)
 http://31.148.5.241/kanal_13/index.m3u8
 
-#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniy-ru-1c0fcf32f5.jpg",Domashniy (576p)
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/domashniy-ru-1c0fcf32f5.jpg",Домашний (576p)
 http://31.148.5.241/kanal_14/index.m3u8
 
-#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",TV-3 (576p)
+#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tv-3-0c524cbabc.png",ТВ3 (576p)
 http://31.148.5.241/kanal_15/index.m3u8
 
-#EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/friday-86fa92a2d0.png",Friday! (576p)
+#EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/friday-86fa92a2d0.png",Пятница! (576p)
 http://31.148.5.241/kanal_16/index.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Zvezda (576p)
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Звезда (576p)
 http://31.148.5.241/kanal_17/index.m3u8
 
-#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",Mir (576p)
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/mir-ru-3d9025b851.png",МИР (576p)
 http://31.148.5.241/kanal_18/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",TNT (576p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tnt-ru-f6a68a95e1.webp",ТНТ (576p)
 http://31.148.5.241/kanal_19/index.m3u8
 
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",Muz-TV (576p)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/muztv-ru-923da218aa.png",МузТВ (576p)
 http://31.148.5.241/kanal_20/index.m3u8
 
-#EXTINF:-1 tvg-id="Rus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rus-33b036362e.png",Rus (576p)
+#EXTINF:-1 tvg-id="Rus.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rus-33b036362e.png",Русь (576p)
 http://31.148.5.241/kanal_21/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-sport-00eabb2525.png",viju+ Sport (576p)
@@ -1734,10 +1731,10 @@ http://46.53.200.153:7777/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="TV21International.ru@SD",TV 21 International (576p)
 http://46.53.200.153:7777/play/TV-21M/index.m3u8
 
-#EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/saphire-ru-d0acae3ea3.png",Saphire (1080p)
+#EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/saphire-ru-d0acae3ea3.png",Сапфир (1080p)
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashkinopokaz-ru-a9e9c97919.png",Nash Kinopokaz HD (576p)
+#EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/nashkinopokaz-ru-a9e9c97919.png",Наш Кинопоказ (576p)
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 
 #EXTINF:-1 tvg-id="RTGTV.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtg-tv-hd-7f2c43a076.png",RTG TV HD (1080p)
@@ -1755,7 +1752,7 @@ http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-serial-hd-5b376267b7.png",viju+ Serial HD (1080p)
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Shanson TV (576p)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/shansontv-ru-8ce556cb26.png",Шансон ТВ (576p)
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru@Belarus" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/europa-plus-tv-belarus-190dfa555b.png",Europa Plus TV Belarus (576p)
@@ -1770,7 +1767,7 @@ http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-sport-00eabb2525.png",viju+ Sport (576p)
 http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
 
-#EXTINF:-1 tvg-id="vijuTV1000novella.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-tv1000-novella-hd-08cb2a0205.png",viju TV1000 novella HD (1080p)
+#EXTINF:-1 tvg-id="vijuTV1000novella.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-tv1000-novella-hd-08cb2a0205.png",viju TV1000 новелла (1080p)
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000romantica.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-tv1000-romantica-hd-e40f3ee514.png",viju TV1000 romantica HD (1080p)
@@ -1782,7 +1779,7 @@ http://46.53.200.153:7777/play/TV_1000/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/viju-tv1000-action-2e868e025d.png",viju TV1000 action (576p)
 http://46.53.200.153:7777/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 russkoe (576p)
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vijutv1000russkoe-ru-abd43e9046.png",viju TV1000 Русское (576p)
 http://46.53.200.153:7777/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ru@SD",Discovery Channel (1080p)
@@ -1803,13 +1800,13 @@ http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/travelchannel-ru-d99fb088cd.svg",Travel Channel (1080p)
 http://stream.mcquack.net/231/index.m3u8
 
-#EXTINF:-1 tvg-id="O.ru@International" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/o-ru-b4df22b8df.png",O! International (720p)
+#EXTINF:-1 tvg-id="O.ru@International" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/o-ru-b4df22b8df.png",О! (720p)
 http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/vivarussia-ru-233b665089.png",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ministerstvoidey.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ministerstvoidey-ru-fe45e01881.png",Ministerstvo idey (1080p)
+#EXTINF:-1 tvg-id="Ministerstvoidey.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ministerstvoidey-ru-fe45e01881.png",Министерство Идей (1080p)
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oplot2.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/oplot2-ru-25f0b047ad.jpg",Oplot 2 (720p) [Geo-blocked]
@@ -1818,16 +1815,16 @@ http://91.224.16.9:7779/Oplot_2/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/cartoonclassics-ru-66318f5328.png",Cartoon Classics
 http://88.218.242.237:8001/Cartoon_Classics
 
-#EXTINF:-1 tvg-id="NTVSvoyaigra.ru@SD",NTV Svoya igra (1080p)
+#EXTINF:-1 tvg-id="NTVSvoyaigra.ru@SD",НТВ Своя игра (1080p)
 https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchPremier.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-premier-64a047f7d1.png",Match! Premier (576p)
+#EXTINF:-1 tvg-id="MatchPremier.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/match-premier-64a047f7d1.png",Матч! Премьер (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 
 #EXTINF:-1 tvg-id="Home4K.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/home-4k-8f99facfe0.png",Home 4K
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvsledstviyeveli-ru-a1c7fc41f4.png",NTV Sledstviye veli (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntvsledstviyeveli-ru-a1c7fc41f4.png",НТВ Следствие вели
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="31Kanal.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/31-kanal-f564c709d0.png",31 Kanal (576p)
@@ -1917,7 +1914,7 @@ https://ulytau.tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="TDK42.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/tdk-42-4d03c95594.png",TDK 42
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/novoetelevidenie-kz-87edc6160b.png",Novoe televidenie (576p)
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/novoetelevidenie-kz-87edc6160b.png",Новое телевидение (576p) [Not 24/7] (576p)
 https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="QazSport.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/qazsport-1356661660.png",QazSport (576p)
@@ -1977,7 +1974,7 @@ https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="SportPlusQazaqstan.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sport-qazaqstan-3cb21b1979.png",Sport+ Qazaqstan (1080p)
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/novoetelevidenie-kz-87edc6160b.png",Novoe televidenie
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/novoetelevidenie-kz-87edc6160b.png",Новое телевидение (576p) [Not 24/7]
 http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1 tvg-id="Qazaqstan.kz@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/qazaqstan-4c81d0703b.png",Qazaqstan
@@ -2106,10 +2103,10 @@ https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Leomax24.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/leomax24-ru-6c430e599e.png",Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Zvezda HD (1080p)
+#EXTINF:-1 tvg-id="Zvezda.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-hd-3e1e1eda4a.png",Звезда (1080p)
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-plus-hd-25b0384552.png",Zvezda Plus HD (1080p)
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/zvezda-plus-hd-25b0384552.png",Звезда Плюс (1080p)
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BST.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bst-ru-770f87092b.png",БСТ (Башкирское спутниковое телевидение) (576p)
@@ -2235,13 +2232,13 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-arabic-6d160284a0.png",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RT Documentary English (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RTД
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RT Documentary English (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RTД
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RT Documentary Russian (1080p)
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RTД (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD",RT en Español (1080p) [Geo-blocked]
@@ -2277,16 +2274,16 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/360-новости-3a673c6894.png",360° Новости (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",RTR Planeta Europe (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",Россия-РТР
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@US" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",RTR Planeta USA (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@US" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",Россия-РТР
 https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",Russia RTR Asia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",Россия-РТР
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",Russia RTR CIS (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rtr-planeta-europe-a2fd4d6863.png",Россия-РТР
 https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
 
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/bigasia-ru-c47ae47621.png",Большая Азия (720p)
@@ -2349,7 +2346,7 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru@SD",5 Канал
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 
-#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RT Documentary Russian
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rt-documentary-russian-3135c2bbe3.png",RTД
 https://streaming.thestream.cyou/live/554.m3u8
 
 #EXTINF:-1 tvg-id="Domkino.ru@SD",Дом Кино
@@ -4046,6 +4043,9 @@ https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="Russia",TV Rain (1080p) [Geo-blocked]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru@SD",2х2 (450p) [Geo-blocked] (576p)
+http://31.148.48.15/2x2/index.m3u8
 
 #EXTINF:-1 tvg-id="12_OMSK" tvg-name="12 канал" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/12-канал-2c0c7d643b.png" group-title="Развлекательные;Региональные;Информационные",12 канал
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8

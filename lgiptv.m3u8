@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="lgiptv-epg.xml" x-tvg-url="lgiptv-epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/atlet99/iptv_channels/main/lgiptv-epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/atlet99/iptv_channels/main/lgiptv-epg.xml.gz"
 
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/360-5ae2b822cd.png" group-title="Федеральные",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8

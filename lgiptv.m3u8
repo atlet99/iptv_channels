@@ -3921,25 +3921,25 @@ https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1 tvg-name="НТВ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/ntv-ru-99def25f25.png" tvg-id="NTV.ru" tvg-chno="4" tvg-country="RU" group-title="Russia",НТВ Ⓢ
 http://ott-cdn.ucom.am/s17/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия-24 (1080p)" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/россия-24-0c7b512473.png" tvg-id="Russia24.ru" tvg-chno="7" tvg-country="RU" group-title="Russia",Россия-24 (1080p)
+#EXTINF:-1 tvg-name="Россия-24 (1080p)" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/россия-24-0c7b512473.png" tvg-id="Russia24.ru" tvg-chno="7" tvg-country="RU" group-title="Russia",Россия-24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Россия-24 (720p)" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/россия-24-0c7b512473.png" tvg-id="Russia24.ru" tvg-chno="8" tvg-country="RU" group-title="Russia",Россия-24 (720p)
+#EXTINF:-1 tvg-name="Россия-24 (720p)" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/россия-24-0c7b512473.png" tvg-id="Russia24.ru" tvg-chno="8" tvg-country="RU" group-title="Russia",Россия-24 (720p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 
-#EXTINF:-1 tvg-name="Карусель" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/карусель-0d51b998e0.png" tvg-id="Karusel.ru" tvg-chno="9" tvg-country="RU" group-title="Russia",Карусель Ⓢ
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/карусель-0d51b998e0.png" tvg-id="Karusel.ru" tvg-chno="9" tvg-country="RU" group-title="Russia",Карусель Ⓢ
 https://streaming102.interskytech.com/live/232.m3u8
 
-#EXTINF:-1 tvg-name="ОТР" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/отр-b411f47199.png" tvg-id="OTR.ru" tvg-chno="10" tvg-country="RU" group-title="Russia",ОТР Ⓢ
+#EXTINF:-1 tvg-name="ОТР" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/отр-b411f47199.png" tvg-id="OTR.ru" tvg-chno="10" tvg-country="RU" group-title="Russia",ОТР Ⓢ
 https://streaming.televizor-24-tochka.ru/live/12.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/тв-центр-8342bf61f4.png" tvg-id="TVCentr.ru" tvg-chno="11" tvg-country="RU" group-title="Russia",ТВ Центр Ⓢ
+#EXTINF:-1 tvg-name="ТВ Центр" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/тв-центр-8342bf61f4.png" tvg-id="TVCentr.ru" tvg-chno="11" tvg-country="RU" group-title="Russia",ТВ Центр Ⓢ
 http://ott-cdn.ucom.am/s54/index.m3u8
 
 #EXTINF:-1 tvg-name="Рен ТВ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/rentv-ru-029996b66d.png" tvg-id="RENTV.ru" tvg-chno="12" tvg-country="RU" group-title="Russia",Рен ТВ Ⓢ
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 
-#EXTINF:-1 tvg-name="Спас" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/спас-58020e6559.jpg" tvg-id="TelekanalSpas.ru" tvg-chno="13" tvg-country="RU" group-title="Russia",Спас Ⓢ
+#EXTINF:-1 tvg-name="Спас" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/спас-58020e6559.jpg" tvg-id="TelekanalSpas.ru" tvg-chno="13" tvg-country="RU" group-title="Russia",Спас Ⓢ
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 
 #EXTINF:-1 tvg-name="СТС" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/sts-be20cfd5bb.png" tvg-id="STS.ru" tvg-chno="14" tvg-country="RU" group-title="Russia",СТС Ⓢ
@@ -3999,7 +3999,7 @@ https://tvtogliatti24.ru/hls/live1080/index.m3u8
 #EXTINF:-1 tvg-name="Якутия 24" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main//assets/yakutiya24-ru-b6d647779f.png" tvg-id="Yakutiya24.ru" tvg-country="RU" group-title="Russia",Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Вести ФМ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/вести-фм-dae424150b.png" tvg-country="RU" group-title="Russia",Вести ФМ
+#EXTINF:-1 tvg-name="Вести ФМ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/вести-фм-dae424150b.png" tvg-country="RU" group-title="Russia",Вести ФМ
 https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
 
 #EXTINF:-1 tvg-name="Небеса ТВ7" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-id="NebesaTV7.ru" tvg-country="RU" group-title="Russia",Небеса ТВ7 Ⓢ
@@ -4029,10 +4029,10 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Russia",Angel TV Russian (720p)
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/bollywood-hd-d13cf791fe.png" group-title="Russia",Bollywood HD Russia (576p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/bollywood-hd-d13cf791fe.png" group-title="Russia",Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/euronewsrussian-fr-2afb88de4e.png" group-title="Russia",Euronews Russian (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/euronewsrussian-fr-2afb88de4e.png" group-title="Russia",Euronews Russian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="Russia",Gagsnetwork (576p)
@@ -4047,7 +4047,7 @@ https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="Russia",TV Rain (1080p) [Geo-blocked]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="12_OMSK" tvg-name="12 канал" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/12-канал-2c0c7d643b.png" group-title="Развлекательные;Региональные;Информационные",12 канал
+#EXTINF:-1 tvg-id="12_OMSK" tvg-name="12 канал" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/12-канал-2c0c7d643b.png" group-title="Развлекательные;Региональные;Информационные",12 канал
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv_brics" tvg-name="Brics" tvg-logo="https://newapp.bonus-tv.ru/static/pics/brics.png" group-title="Информационные",Brics
@@ -4056,7 +4056,7 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="A-ONE" tvg-name="FON Music" tvg-logo="https://newapp.bonus-tv.ru/static/pics/fontv.png" group-title="Музыкальные",FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rus_Today" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/rt-b75c816499.png" group-title="Информационные",RT
+#EXTINF:-1 tvg-id="Rus_Today" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/rt-b75c816499.png" group-title="Информационные",RT
 https://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8
 
 #EXTINF:-1 tvg-id="RT_Doc" tvg-name="RTД" tvg-logo="https://newapp.bonus-tv.ru/static/pics/rtdoc.png" group-title="Познавательные",RTД
@@ -4092,7 +4092,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-id="Prodvigeni" tvg-name="Продвижение" tvg-logo="https://newapp.bonus-tv.ru/static/pics/prodvij_new.png" group-title="Развлекательные",Продвижение
 https://prodvizhenie.mediacdn.ru/cdn/prodvizhenie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Prosvejeni" tvg-name="Просвещение" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/просвещение-546e0a1d97.png" group-title="Познавательные",Просвещение
+#EXTINF:-1 tvg-id="Prosvejeni" tvg-name="Просвещение" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/просвещение-546e0a1d97.png" group-title="Познавательные",Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 
 #EXTINF:-1 tvg-id="Radost_moj" tvg-name="Радость моя" tvg-logo="https://newapp.bonus-tv.ru/static/pics/radost.png" group-title="Познавательные;Детские",Радость моя
@@ -4101,7 +4101,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-id="SalamUfa" tvg-name="Салям" tvg-logo="https://newapp.bonus-tv.ru/static/pics/salyam.png" group-title="Информационные;Развлекательные;Региональные",Салям
 https://bsttv.bonus-tv.ru/cdn/salyamhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SPB_TV" tvg-name="Санкт-Петербург" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/санкт-петербург-56698405c7.png" group-title="Информационные;Региональные",Санкт-Петербург
+#EXTINF:-1 tvg-id="SPB_TV" tvg-name="Санкт-Петербург" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/санкт-петербург-56698405c7.png" group-title="Информационные;Региональные",Санкт-Петербург
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STV_Stavr" tvg-name="Своё ТВ" tvg-logo="https://newapp.bonus-tv.ru/static/pics/svoetv.png" group-title="Информационные;Региональные;Развлекательные",Своё ТВ
@@ -4122,5 +4122,5 @@ https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd
 #EXTINF:-1 tvg-id="TymVremya" tvg-name="Тюменское время" tvg-logo="https://newapp.bonus-tv.ru/static/pics/tymvremya2.png" group-title="Информационные;Развлекательные;Региональные",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SHANSON" tvg-name="Шансон ТВ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/шансон-тв-42b11d19a7.png" group-title="Музыкальные",Шансон ТВ
+#EXTINF:-1 tvg-id="SHANSON" tvg-name="Шансон ТВ" tvg-logo="https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/шансон-тв-42b11d19a7.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8

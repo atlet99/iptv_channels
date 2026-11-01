@@ -10364,7 +10364,7 @@
     <track>
       <location>https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8</location>
       <title>Россия-24 (1080p)</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/россия-24-0c7b512473.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/россия-24-0c7b512473.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1307</vlc:id>
       </extension>
@@ -10372,7 +10372,7 @@
     <track>
       <location>https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8</location>
       <title>Россия-24 (720p)</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/россия-24-0c7b512473.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/россия-24-0c7b512473.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1308</vlc:id>
       </extension>
@@ -10380,7 +10380,7 @@
     <track>
       <location>https://streaming102.interskytech.com/live/232.m3u8</location>
       <title>Карусель Ⓢ</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/карусель-0d51b998e0.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/карусель-0d51b998e0.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1309</vlc:id>
       </extension>
@@ -10388,7 +10388,7 @@
     <track>
       <location>https://streaming.televizor-24-tochka.ru/live/12.m3u8</location>
       <title>ОТР Ⓢ</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/отр-b411f47199.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/отр-b411f47199.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1310</vlc:id>
       </extension>
@@ -10396,7 +10396,7 @@
     <track>
       <location>http://ott-cdn.ucom.am/s54/index.m3u8</location>
       <title>ТВ Центр Ⓢ</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/тв-центр-8342bf61f4.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/тв-центр-8342bf61f4.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1311</vlc:id>
       </extension>
@@ -10412,7 +10412,7 @@
     <track>
       <location>https://spas.mediacdn.ru/cdn/spas/playlist.m3u8</location>
       <title>Спас Ⓢ</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/спас-58020e6559.jpg</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/спас-58020e6559.jpg</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1313</vlc:id>
       </extension>
@@ -10572,7 +10572,7 @@
     <track>
       <location>https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&amp;id=199&amp;sign=7a04ce47ac48dd9b7ee0a99025656417</location>
       <title>Вести ФМ</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/вести-фм-dae424150b.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/вести-фм-dae424150b.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1333</vlc:id>
       </extension>
@@ -10652,7 +10652,7 @@
     <track>
       <location>https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8</location>
       <title>Bollywood HD Russia (576p)</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/bollywood-hd-d13cf791fe.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/bollywood-hd-d13cf791fe.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1343</vlc:id>
       </extension>
@@ -10660,7 +10660,7 @@
     <track>
       <location>https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8</location>
       <title>Euronews Russian (720p)</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/euronewsrussian-fr-2afb88de4e.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/euronewsrussian-fr-2afb88de4e.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1344</vlc:id>
       </extension>
@@ -10700,7 +10700,7 @@
     <track>
       <location>https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8</location>
       <title>12 канал</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/12-канал-2c0c7d643b.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/12-канал-2c0c7d643b.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1349</vlc:id>
       </extension>
@@ -10724,7 +10724,7 @@
     <track>
       <location>https://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8</location>
       <title>RT</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/rt-b75c816499.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/rt-b75c816499.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1352</vlc:id>
       </extension>
@@ -10820,7 +10820,7 @@
     <track>
       <location>https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8</location>
       <title>Просвещение</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/просвещение-546e0a1d97.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/просвещение-546e0a1d97.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1364</vlc:id>
       </extension>
@@ -10844,7 +10844,7 @@
     <track>
       <location>https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream2/playlist.m3u8</location>
       <title>Санкт-Петербург</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/санкт-петербург-56698405c7.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/санкт-петербург-56698405c7.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1367</vlc:id>
       </extension>
@@ -10900,7 +10900,7 @@
     <track>
       <location>https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8</location>
       <title>Шансон ТВ</title>
-      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/master/assets/шансон-тв-42b11d19a7.png</image>
+      <image>https://raw.githubusercontent.com/atlet99/iptv_channels/main/assets/шансон-тв-42b11d19a7.png</image>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>1374</vlc:id>
       </extension>

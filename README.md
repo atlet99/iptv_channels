@@ -24,6 +24,14 @@ fresher commit.
 > themselves expose on the open internet. Nothing was hacked, cracked,
 > bypassed or paid for.
 
+- The channel **logos in `assets/` were collected from openly available
+  sources** (official channel sites, public channel databases and public
+  playlists). The author **does not own these logos and has no connection
+  to the channels or their owners**; all trademarks and logos belong to
+  their respective owners and are used solely for channel identification
+  in a playlist. If you are the owner of a logo and want it removed, open
+  an issue and it will be **taken down promptly**.
+
 - The author **is not affiliated with** any of the services or applications
   referenced here, in any way — no partnership, sponsorship, endorsement or
   other connection. Names and trademarks belong to their respective owners
